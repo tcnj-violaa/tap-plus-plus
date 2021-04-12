@@ -1,0 +1,7 @@
+\i schema.sql
+\i test-data.sql 
+SELECT * FROM filters;
+SELECT * FROM admin_transcript_edit_requests;
+SELECT * FROM transcript_requests;
+SELECT * FROM results;
+\s commands.txt
