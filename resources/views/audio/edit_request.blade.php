@@ -9,7 +9,7 @@
                 <form>
                     <div class="mt-2 mb-2 tw-font-serif tw-text-lg pr-0">
                         <div class="form-group">
-                            <textarea id="transcriptOrigText" class="form-control bg-light p-4 tw-text-black mb-0 bg-secondary" rows="25" style="resize: none; min-height: 500px; max-height: calc(100vh - 150px); overflow-y: auto" readonly>{!! e($audio->transcript_text) !!}</textarea>
+                            <textarea id="transcriptOrigText" class="form-control bg-light p-4 tw-text-black mb-0 bg-secondary text-muted" rows="25" style="resize: none; min-height: 500px; max-height: calc(100vh - 150px); overflow-y: auto" readonly>{!! e($audio->transcript_text) !!}</textarea>
                         </div>
                     </div>
                 </form>
@@ -21,7 +21,7 @@
                 <form>
                     <div class="mt-2 mb-2 tw-font-serif tw-text-lg pr-0">
                         <div class="form-group">
-                            <textarea id="transcriptEditText" class="form-control bg-light p-4 tw-text-black mb-0 text-success" style="resize: none; min-height: 500px; max-height: calc(100vh - 150px); overflow-y: auto" rows="25">{!! e($audio->transcript_text) !!}</textarea>
+                            <textarea id="transcriptEditText" class="form-control bg-light p-4 tw-text-black mb-0" style="resize: none; min-height: 500px; max-height: calc(100vh - 150px); overflow-y: auto" rows="25">{!! e($audio->transcript_text) !!}</textarea>
                         </div>
                     </div>
               </form>

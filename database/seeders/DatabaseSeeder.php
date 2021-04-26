@@ -4,6 +4,7 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Log;
 
 class DatabaseSeeder extends Seeder
 {
@@ -19,7 +20,6 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        // \App\Models\User::factory(10)->create();
         $this->call(UsersTableSeeder::class);
         $this->call(AudioTableSeeder::class);
         $this->call(TagCategoryTableSeeder::class);
@@ -33,8 +33,8 @@ class DatabaseSeeder extends Seeder
         $this->updateIdentity('audio');
         $this->updateIdentity('tag_category');
         $this->updateIdentity('tags');
-        $this->updateIdentity('audio_tag');
         $this->updateIdentity('transcripts');
         $this->updateIdentity('user_edit_request');
+        $this->updateIdentity('audit_logs');
     }
 }
