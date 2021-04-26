@@ -35,13 +35,12 @@ class Audio
             $perPage = static::PER_PAGE;
         }
 
-        $query = "SELECT * FROM results\n";
+        $filterQuery = "";
         $args = [];
 
         // Keeps track of whether a WHERE clause has already been added or not
         $alreadyHasWhere = false;
 
-        $count = null;
         // Handle audio tags, only if there are tag IDs
         if ($tags !== null && count($tags) > 0) {
             // Prevent duplicate tag IDs in the request from causing problems
@@ -60,12 +59,11 @@ class Audio
 
             if (count($audioIds) > 0) {
                 $audioIdTemplate = str_repeat('?,', count($audioIds) - 1) . '?';
-                $query .= "WHERE id IN ($audioIdTemplate)\n";
+                $filterQuery .= "WHERE id IN ($audioIdTemplate)\n";
                 foreach ($audioIds as $id) {
                     $args[] = $id;
                 }
                 $alreadyHasWhere = true;
-                $count = count($audioIds); // don't get the total results
             } else {
                 return [
                     'page' => 0,
@@ -78,21 +76,23 @@ class Audio
 
         // TODO: more search areas
         if (strlen($search) > 0) {
-            $query .= ($alreadyHasWhere ? 'AND ' : 'WHERE ');
-            $query .= "name ILIKE ?\n";
+            $filterQuery .= ($alreadyHasWhere ? 'AND ' : 'WHERE ');
+            $filterQuery .= "name ILIKE ?\n";
 
             $args[] = '%' . $search . '%';
         }
 
-        // Pagination
-        $query .= 'LIMIT ? OFFSET ?';
+        // Get the count
+        $count = DB::selectOne("SELECT COUNT(*) AS count FROM audio\n" . $filterQuery, $args)->count;
+
+        // Pagination logic
+        $resultQuery = "SELECT * FROM results\n" . $filterQuery;
+        $resultQuery .= 'LIMIT ? OFFSET ?';
         $args[] = $perPage;
         $args[] = ($page - 1) * $perPage;
 
-        $results = DB::select($query, $args);
-        if ($count === null) {
-            $count = DB::selectOne("SELECT COUNT(*) AS count FROM audio")->count;
-        }
+        // Get the results
+        $results = DB::select($resultQuery, $args);
 
         return [
             'page' => $page,

@@ -30,4 +30,5 @@ Route::post('/auth/register', [RegisterController::class, 'post']);
 
 Route::get('/audio/{id}', [SummaryController::class, 'get']);
 
-Route::get('/audio/{id}/request-edit', [EditRequestController::class, 'get']);
+Route::get('/audio/{id}/request-edit', [EditRequestController::class, 'create']);
+Route::post('/audio/{id}/request-edit', [EditRequestController::class, 'store']);

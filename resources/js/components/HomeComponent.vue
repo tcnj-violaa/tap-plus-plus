@@ -167,7 +167,7 @@ export default {
                         >
                             Previous
                         </button>
-                        <span class="tw-text-center" v-if="audio.total_pages > 0">
+                        <span class="tw-text-center" v-if="audio.total_pages > 0 && audio.data.length > 0">
                             Page {{ audio.page }} of {{ audio.total_pages }}
                             <span class="tw-text-gray-500 ml-2">
                                 ({{ audio.total_results }} total)

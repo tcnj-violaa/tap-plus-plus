@@ -49,7 +49,8 @@
                     @endif
                 </div>
             </div>
-            <div class="col-md-7 mt-5 mb-2 tw-font-serif tw-text-lg pr-0" style="min-height: 500px; max-height: calc(100vh - 150px); overflow-y: auto">
+            <div class="col-md-7 mt-5 mb-2 tw-font-serif tw-text-lg pr-0
+                    md:tw-min-h-[500px] md:tw-max-h-[calc(100vh-150px)] md:tw-overflow-y-auto">
                 <div class="jumbotron bg-light p-4 tw-text-black mb-0">
                     @if ($audio->transcript_text)
                         {!! nl2br(e($audio->transcript_text)) !!}
