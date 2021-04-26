@@ -2,6 +2,11 @@
 @section('content')
     <div class="container tw-max-w-5xl">
         <div class="row">
+            <div class="text-center">
+                <p class="lead tw-text-3xl tw-font-bold"><b>{{ $audio->name }}</b></p>
+<
+        </div>
+        <div class="row">
             <div class="col">
                 <div class="jumbotron container p-4 mb-0 mt-5">
                     <p class="lead tw-text-3xl tw-font-bold text-center"><b>Original</b></p>

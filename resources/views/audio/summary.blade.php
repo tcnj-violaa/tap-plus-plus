@@ -17,7 +17,7 @@
                             <hr class="my-2">
                             <p class="display-5 tw-text-2m">
                                 <strong>Recorded:</strong>
-                                @if ($audio->audio_date)
+                                @if (isset($audio->audio_date))
                                     {{ \Carbon\Carbon::parse($audio->audio_date)->toFormattedDateString() }}
                                 @else
                                     <i>Unknown</i>
