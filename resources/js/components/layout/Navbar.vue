@@ -3,6 +3,7 @@ import { ref } from 'vue';
 import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/vue';
 import { SearchIcon } from '@heroicons/vue/solid';
 import { UserIcon, MenuIcon, XIcon, ChevronDownIcon } from '@heroicons/vue/outline';
+import EventBus from '../../event-bus';
 
 const navigation = [
     { name: 'Dashboard', href: '#' },
@@ -92,6 +93,22 @@ export default {
             return true;
         };
 
+        const getSearchQuery = () => {
+            const params = (new URL(document.location)).searchParams;
+            if (params.has('search'))
+                return params.get('search');
+            return ''; // nope
+        };
+        const homeComponentEl = document.getElementById('home-component');
+        const searchQuery = ref(homeComponentEl !== null ? getSearchQuery() : '');
+        const onSearch = () => {
+            if (homeComponentEl === null) {
+                window.location.href = '/?search=' + encodeURIComponent(searchQuery.value);
+            } else {
+                EventBus.emit('search', searchQuery.value);
+            }
+        };
+
         return {
             loggedIn,
             user,
@@ -99,7 +116,9 @@ export default {
             userDropdown,
             open,
             unauthorizedNavigation,
-            onUserDropdownClick
+            onUserDropdownClick,
+            searchQuery,
+            onSearch
         }
     },
 }
@@ -123,7 +142,14 @@ export default {
                             <div class="tw-pointer-events-none tw-absolute tw-inset-y-0 tw-left-0 tw-pl-3 tw-flex tw-items-center">
                                 <SearchIcon class="tw-h-5 tw-w-5 tw-text-gray-400" aria-hidden="true" />
                             </div>
-                            <input id="search" name="search" class="tw-block tw-w-full tw-bg-gray-700 tw-border tw-border-transparent tw-rounded-md tw-py-2 tw-pl-10 tw-pr-3 tw-text-sm tw-placeholder-gray-400 focus:tw-outline-none focus:tw-bg-white focus:tw-border-white focus:tw-ring-white focus:tw-text-gray-900 focus:tw-placeholder-gray-500 sm:tw-text-sm" placeholder="Search" type="search">
+                            <form @submit.prevent="onSearch">
+                                <input id="search"
+                                       name="search"
+                                       class="tw-block tw-w-full tw-bg-gray-700 tw-border tw-border-transparent tw-rounded-md tw-py-2 tw-pl-10 tw-pr-3 tw-text-sm tw-placeholder-gray-400 tw-text-gray-400 focus:tw-outline-none focus:tw-bg-white focus:tw-border-white focus:tw-ring-white focus:tw-text-gray-900 focus:tw-placeholder-gray-500 sm:tw-text-sm"
+                                       placeholder="Search" type="search"
+                                       v-model="searchQuery"
+                                >
+                            </form>
                         </div>
                     </div>
                 </div>

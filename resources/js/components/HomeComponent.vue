@@ -9,8 +9,7 @@
 import {onMounted, ref, watch} from "vue";
 import {CancelToken} from 'axios';
 import {ExclamationIcon} from "@heroicons/vue/outline/esm";
-
-let reloadTimer = null;
+import EventBus from '../event-bus';
 
 let cancelSource = null;
 
@@ -21,19 +20,18 @@ export default {
     setup() {
         const el = document.getElementById('home-component');
         if (el === null) {
-            console.log('bruh');
             return null;
         }
         const data = el.dataset;
 
+        const page = ref(1);
+        const searchQuery = ref('');
         const loading = ref(false);
         const audio = ref(JSON.parse(data.audio));
         const filters = ref(JSON.parse(data.filters));
 
         const filterStates = ref({});
 
-        // temp
-        const delay = ms => new Promise(res => setTimeout(res, ms));
         const reloadAudioData = async () => {
             if (loading.value && cancelSource !== null) {
                 cancelSource.cancel('');
@@ -53,11 +51,13 @@ export default {
             }
 
             try {
+                console.log('search:', searchQuery.value);
                 cancelSource = CancelToken.source();
                 let response = await axios.post(
-                    '/api/audio/list',
+                    '/api/audio/list?page=' + page.value,
                     {
-                        tags
+                        tags,
+                        search: searchQuery.value
                     },
                     {
                         cancelToken: cancelSource.token
@@ -86,16 +86,31 @@ export default {
             }
 
             watch(filterStates, () => {
-                clearTimeout(reloadTimer);
-                reloadTimer = setTimeout(() => { reloadAudioData() }, 50);
+                reloadAudioData();
             }, {deep: true});
         });
+
+        EventBus.on('search', value => {
+            searchQuery.value = value;
+            page.value = 1;
+            reloadAudioData();
+        });
+
+        const incrementPage = (amount) => {
+            if (audio.value.page + amount < 1 || audio.value.page + amount > audio.value.total_pages) return;
+
+            page.value += amount;
+
+            reloadAudioData();
+        };
 
         return {
             audio,
             filters,
             filterStates,
-            loading
+            loading,
+            incrementPage,
+            page
         }
     }
 }
@@ -122,7 +137,7 @@ export default {
                     <strong class="mt-4">Loading...</strong>
                 </div>
                 <div v-else>
-                    <div class="tw-flex tw-flex-col tw-justify-center tw-items-center tw-h-64 tw-p-8" v-if="audio.length < 1">
+                    <div class="tw-flex tw-flex-col tw-justify-center tw-items-center tw-h-64 tw-p-8" v-if="audio.data.length < 1">
                         <ExclamationIcon class="text-warning h-48" />
 <!--                        <span class="tw-text-8xl tw-mb-8">not an emoji</span>-->
                         <div class="text-center">
@@ -131,7 +146,7 @@ export default {
                         </div>
                     </div>
                     <div class="tw-flex tw-flex-wrap tw--m-2" v-else>
-                        <a class="tw-m-2 tw-w-full hover:tw-no-underline" :href="'/audio/' + item.id" v-for="item in audio" :key="item.id">
+                        <a class="tw-m-2 tw-w-full hover:tw-no-underline" :href="'/audio/' + item.id" v-for="item in audio.data" :key="item.id">
                             <div class="card bg-light border-secondary tw-transition-shadow hover:tw-shadow-md">
                                 <div class="card-body">
                                     <h6 class="card-title tw-text-black mb-0 tw-text-base">{{ item.name }}</h6>
@@ -141,6 +156,31 @@ export default {
                                 </div>
                             </div>
                         </a>
+                    </div>
+
+                    <div class="tw-bg-white tw-px-4 tw-py-3 tw-flex tw-items-center tw-justify-between sm:tw-px-6 mt-4">
+                        <button
+                           class="tw-relative tw-inline-flex tw-items-center tw-px-4 tw-py-2 tw-border tw-border-gray-300 tw-text-sm tw-font-medium tw-rounded-md tw-text-gray-700 tw-bg-white hover:tw-no-underline hover:tw-text-gray-700"
+                           :class="[page - 1 < 1 ? 'tw-cursor-default tw-opacity-75' : 'hover:tw-bg-gray-50']"
+                           :disabled="page - 1 < 1"
+                           @click.prevent="incrementPage(-1)"
+                        >
+                            Previous
+                        </button>
+                        <span class="tw-text-center" v-if="audio.total_pages > 0">
+                            Page {{ audio.page }} of {{ audio.total_pages }}
+                            <span class="tw-text-gray-500 ml-2">
+                                ({{ audio.total_results }} total)
+                            </span>
+                        </span>
+                        <button
+                           class="tw-ml-3 tw-relative tw-inline-flex tw-items-center tw-px-4 tw-py-2 tw-border tw-border-gray-300 tw-text-sm tw-font-medium tw-rounded-md tw-text-gray-700 tw-bg-white hover:tw-no-underline hover:tw-text-gray-700"
+                           :class="[page + 1 > audio.total_pages ? 'tw-cursor-default tw-opacity-75' : 'hover:tw-bg-gray-50']"
+                           :disabled="page + 1 > audio.total_pages"
+                           @click.prevent="incrementPage(1)"
+                        >
+                            Next
+                        </button>
                     </div>
                 </div>
             </div>

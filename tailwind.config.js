@@ -1,3 +1,5 @@
+const defaultTheme = require('tailwindcss/defaultTheme');
+
 module.exports = {
   mode: 'jit',
   prefix: 'tw-',
@@ -8,11 +10,14 @@ module.exports = {
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['Lato', ...defaultTheme.fontFamily.sans],
+        serif: ['EB Garamond', ...defaultTheme.fontFamily.serif],
+      },
+    },
   },
-  variants: {
-    extend: {},
-  },
+  variants: {},
   plugins: [
       require('@tailwindcss/custom-forms'),
   ],

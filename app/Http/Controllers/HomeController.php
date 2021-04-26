@@ -41,9 +41,12 @@ class HomeController extends Controller
      *
      * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */
-    public function get()
+    public function get(Request $request)
     {
-        $audio = Audio::get();
+        $audio = Audio::get(
+            search: ($request->get('search') ?? '')
+        );
+
         $filters = $this->getFilters();
 
         return view('home', compact(['filters', 'audio']));

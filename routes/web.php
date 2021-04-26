@@ -1,8 +1,10 @@
 <?php
 
+use App\Http\Controllers\Audio\EditRequestController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\Audio\SummaryController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -25,3 +27,7 @@ Route::post('/auth/login', [LoginController::class, 'post']);
 
 Route::get('/auth/register', [RegisterController::class, 'get']);
 Route::post('/auth/register', [RegisterController::class, 'post']);
+
+Route::get('/audio/{id}', [SummaryController::class, 'get']);
+
+Route::get('/audio/{id}/request-edit', [EditRequestController::class, 'get']);

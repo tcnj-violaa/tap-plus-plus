@@ -80,13 +80,13 @@ class TapAuthentication
         }
 
         $uid = $this->request->session()->get($this->userIdKey);
-        $user = DB::select("SELECT * FROM users WHERE id = ?", [$uid]);
-        if (count($user) < 1) {
+        $user = DB::selectOne("SELECT * FROM users WHERE id = ?", [$uid]);
+        if (! $user) {
             $this->logout();
             return null;
         }
 
-        $this->user = (object) $user[0];
+        $this->user = (object) $user;
         return $this->restrictKeys($this->user, $keys);
     }
 

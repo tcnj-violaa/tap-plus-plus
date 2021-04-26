@@ -8,6 +8,7 @@ namespace App\Http\Controllers\Api;
 use App\Data\Audio;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class AudioController extends Controller
 {
@@ -16,10 +17,14 @@ class AudioController extends Controller
         $request->validate([
             'tags' => 'nullable|array',
             'tags.*' => 'required|integer',
-            'search' => 'nullable|string'
+            'search' => 'nullable|string',
+            'page' => 'nullable|integer|min:1'
         ]);
 
+        $page = $request->get('page') ?? 1;
         return Audio::get(
+            page: $page,
+            perPage: Audio::PER_PAGE,
             tags: ($request->get('tags') ?? null),
             search: ($request->get('search') ?? '')
         );

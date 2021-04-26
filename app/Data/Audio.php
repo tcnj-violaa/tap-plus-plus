@@ -14,25 +14,34 @@ use Illuminate\Support\Facades\Log;
  */
 class Audio
 {
+    const PER_PAGE = 20;
+
     /**
      * Builds a query to obtain a list of audio in the database
      *
      * @param int $page Optional current page count
+     * @param int $perPage Optional count per page, if not using the static PER_PAGE variable
      * @param array|null $tags Optional array of tag IDs to search for
      * @param string $search Optional search query string
      * @return array of audio objects
      */
-    public static function get(int $page = 1, ?array $tags = null, string $search = '')
+    public static function get(int $page = 1, int $perPage = -1, ?array $tags = null, string $search = '')
     {
-        // TODO: pagination and more columns to search from
-        // DB::enableQueryLog();
+        // TODO: more columns to search from
+        DB::enableQueryLog();
 
-        $query = "SELECT * FROM audio\n";
+        if ($perPage === -1) {
+            // PHP doesn't support static this in the declaration
+            $perPage = static::PER_PAGE;
+        }
+
+        $query = "SELECT * FROM results\n";
         $args = [];
 
         // Keeps track of whether a WHERE clause has already been added or not
         $alreadyHasWhere = false;
 
+        $count = null;
         // Handle audio tags, only if there are tag IDs
         if ($tags !== null && count($tags) > 0) {
             // Prevent duplicate tag IDs in the request from causing problems
@@ -56,8 +65,14 @@ class Audio
                     $args[] = $id;
                 }
                 $alreadyHasWhere = true;
+                $count = count($audioIds); // don't get the total results
             } else {
-                return [];
+                return [
+                    'page' => 0,
+                    'total_pages' => 0,
+                    'total_results' => 0,
+                    'data' => []
+                ];
             }
         }
 
@@ -69,10 +84,21 @@ class Audio
             $args[] = '%' . $search . '%';
         }
 
+        // Pagination
+        $query .= 'LIMIT ? OFFSET ?';
+        $args[] = $perPage;
+        $args[] = ($page - 1) * $perPage;
+
         $results = DB::select($query, $args);
+        if ($count === null) {
+            $count = DB::selectOne("SELECT COUNT(*) AS count FROM audio")->count;
+        }
 
-        // Log::info(DB::getQueryLog());
-
-        return $results;
+        return [
+            'page' => $page,
+            'total_pages' => ceil($count / Audio::PER_PAGE),
+            'total_results' => $count,
+            'data' => $results
+        ];
     }
 }

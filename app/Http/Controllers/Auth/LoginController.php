@@ -46,14 +46,13 @@ class LoginController extends Controller
         return DB::transaction(function () use ($request) {
             $email = $request->get('email');
             $pass = $request->get('password');
-            $result = DB::select('SELECT * FROM users WHERE email = ?', [$email]);
-            if (count($result) < 1) {
-                dd($result);
+            $user = DB::selectOne('SELECT * FROM users WHERE email = ?', [$email]);
+            if (! $user) {
                 // incorrect email
                 return false;
             }
 
-            $user = (object) $result[0];
+            $user = (object) $user;
             if (! Hash::check($pass, $user->password_hash)) {
                 // incorrect password
                 return false;
