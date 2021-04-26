@@ -1,3 +1,9 @@
+{{--
+    Primary Maintainer: Alex Benasutti
+
+    HTML which displays the audio file description, upload and record information, as well as transcript data
+--}}
+
 @extends('layouts.app')
 
 @section('content')
