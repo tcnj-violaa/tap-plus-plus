@@ -77,10 +77,10 @@ export default {
                         <i>No edit comment left.</i>
                     </div>
                     <div class="tw-mt-2">
-                        <button id="request_approve" type="button" class="btn btn-success mr-2 tw-inline-flex tw-items-center">
+                        <button id="request_approve" name="request_approve" type="button" class="btn btn-success mr-2 tw-inline-flex tw-items-center">
                             <CheckIcon class="tw-h-6 tw-mr-1" /> Approve
                         </button>
-                        <button id="request_deny" type="button" class="btn btn-danger tw-inline-flex tw-items-center">
+                        <button id="request_deny" name="request_deny" type="button" class="btn btn-danger tw-inline-flex tw-items-center">
                             <XIcon class="tw-h-6 tw-mr-1" /> Decline
                         </button>
                     </div>

@@ -147,4 +147,28 @@ class EditRequestController extends Controller
         ];
         return response(DiffHelper::calculate($text->old_text, $text->new_text, 'SideBySide', [], $rendererOptions));
     }
+
+    private function tryApproval(Request $request): object
+    {
+        return DB::transaction(function () use ($request) {
+           $approve =  $request->get('request_approve');
+           $deny = $request->get('request_deny');
+
+            if ($approve)
+            {
+                // update current transcript with new transcript
+
+            }
+            else if ($deny)
+            {
+                // set deny state to current transcript
+                DB::update('UPDATE user_edit_requests SET request_approved = true WHERE ')
+            }
+        });
+    }
+
+    public function post_approval(Request $request)
+    {
+
+    }
 }

@@ -33,7 +33,8 @@ class Authenticate
                     'message' => 'Unauthorized.'
                 ]);
             } else {
-                return redirect('/login');
+                flash('Authentication is required to perform this action.', 'danger');
+                return redirect('/auth/login');
             }
         }
 
