@@ -32,6 +32,7 @@ class AddViewsV1 extends Migration
     audio.id,
     audio.name,
     audio.description,
+    audio.audio_date,
     audio.upload_date,
     transcripts.text AS transcript_text
    FROM audio
