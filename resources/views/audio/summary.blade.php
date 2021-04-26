@@ -3,7 +3,6 @@
 
     HTML which displays the audio file description, upload and record information, as well as transcript data
 --}}
-
 @extends('layouts.app')
 
 @section('content')
@@ -27,6 +26,12 @@
                                 <strong>Uploaded:</strong>
                                 {{ \Carbon\Carbon::parse($audio->upload_date)->toFormattedDateString() }}
                             </p>
+
+                            <div class="{{ count($tags) > 0 ? 'mt-2' : 'mt-0' }} mb-0">
+                                @foreach ($tags as $tag)
+                                    <span class="badge tw-border tw-border-gray-800">{{ $tag->category_name }} &gt; {{ $tag->tag_name }}</span>
+                                @endforeach
+                            </div>
                         </div>
                         <audio class="tw-w-full tw-rounded-md my-4" controls>
                             <source src="{{ url('/audio/' . $audio->id . '.mp3') }}" type="audio/mp3">
@@ -37,20 +42,14 @@
                             <h5 class="lead display-5">Description</h5>
                             <hr class="my-2">
                             <p>{{ $audio->description }}</p>
-                            <hr class="my-2">
-                            <div class="mb-0">
-                                @foreach ($tags as $tag)
-                                    <span class="badge badge-dark">{{ $tag->category_name }} &gt; {{ $tag->tag_name }}</span>
-                                @endforeach
-                            </div>
                         </div>
                     </div>
                     @if ($audio->transcript_text)
                         <div class="jumbotron p-4 bg-light text-center">
                             <div class="container">
                                 <p class="mb-2">See an issue in the transcript? Propose a transcript edit!</p>
-                                <a href="/audio/{{ $audio->id }}/request-edit" class="btn btn-outline-dark">Request Edit</a>
-                                <a href="/audio/{{ $audio->id }}/requests" class="btn btn-outline-dark mt-1">View Open Requests</a>
+                                <a href="/audio/{{ $audio->id }}/request-edit" class="btn btn-outline-dark tw-w-full">Request Edit</a>
+                                <a href="/audio/{{ $audio->id }}/requests" class="btn btn-outline-dark mt-1 tw-w-full">View Open Requests</a>
                             </div>
                         </div>
                     @endif

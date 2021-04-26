@@ -1,3 +1,8 @@
+{{--
+    Primary Maintainer: Alex Benasutti
+
+    Displays text side by side for the user to edit
+--}}
 @extends('layouts.app')
 
 @section('content')
@@ -23,7 +28,7 @@
 
             <div class="row">
                 <div class="container text-center">
-                    <p class="lead tw-text-2xl tw-font-bold mt-3"><b><a href="/audio/{{ $audio->id }}">{{ $audio->name }}</a></b></p>
+                    <p class="lead tw-text-2xl tw-font-bold tw-text-blue-600 mt-3"><b><a href="/audio/{{ $audio->id }}">{{ $audio->name }}</a></b></p>
                     <hr class="my-2">
                 </div>
             </div>

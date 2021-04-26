@@ -1,5 +1,9 @@
 <?php
 
+/*
+ * Primary Maintainers: Raymond Chow, Alex Benasutti, Alex Viola
+ */
+
 use App\Http\Controllers\Admin\EditRequestApprovalController;
 use App\Http\Controllers\Audio\EditRequestController;
 use App\Http\Controllers\Auth\LoginController;
@@ -37,7 +41,7 @@ Route::middleware('auth')->group(function () {
 
     Route::get('/audio/{id}/requests', [EditRequestController::class, 'all']);
 
-    // Route::get('/audio/{id}/requests/{req_id}', [EditRequestController::class, 'look']);
+    // Route::post('/audio/{id}/requests/{req_id}', [EditRequestController::class, 'look']);
 });
 
 /*Route::middleware(['auth', 'admin'])->group(function () {

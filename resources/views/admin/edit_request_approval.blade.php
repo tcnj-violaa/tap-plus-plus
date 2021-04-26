@@ -1,3 +1,9 @@
+{{--
+    Primary Maintainer: Alex Viola
+
+    HTML which handles edit request approval
+ --}}
+
 @extends('layouts.app')
 
 @section('content')

@@ -1,4 +1,10 @@
 <script>
+/*
+ * Primary Maintainers: Raymond Chow, Alex Benasutti
+ *
+ * Handles edit request card display per audio file
+ */
+
 import {ref} from "vue";
 import {CheckIcon} from "@heroicons/vue/outline/esm";
 import {XIcon} from "@heroicons/vue/outline/esm";
@@ -14,6 +20,7 @@ export default {
     setup(props) {
         const diff = ref(null);
         const loading = ref(false);
+        const submitting = ref(false);
         const show = ref(false);
 
         const toggleDiff = async (id) => {
@@ -41,15 +48,38 @@ export default {
 
         const toDateTimeString = (time) => {
             time = time.replace(' ', 'T');
-            return (new Date(time)).toLocaleString("en-US");;
+            return (new Date(time)).toLocaleString("en-US");
+        };
+
+        const request = async (id, type) => {
+            if (submitting.value) return;
+            submitting.value = true;
+            try {
+                let response = await axios.post('/api/audio/requests/set-status?user_edit_request_id=' + id + "&type=" + type);
+                if (response.data.success) {
+                    window.location.reload();
+                } else {
+                    alert(response.data.message);
+                }
+            }
+            catch (e) {
+                alert("Unable to save request status.\nError: " + e);
+                console.log(e);
+            }
+            finally {
+                submitting.value = false;
+            }
         };
 
         return {
             loading,
             diff,
             show,
+            submitting,
+            request,
             toggleDiff,
-            toDateTimeString
+            toDateTimeString,
+            userType: window.TAP.userType
         }
     }
 }
@@ -76,12 +106,12 @@ export default {
                     <div v-else>
                         <i>No edit comment left.</i>
                     </div>
-                    <div class="tw-mt-2">
-                        <button id="request_approve" name="request_approve" type="button" class="btn btn-success mr-2 tw-inline-flex tw-items-center">
+                    <div class="tw-mt-2" v-if="userType >= 2">
+                        <button @click.prevent.stop="request(item.id, 'approve')" :disabled="submitting" type="button" class="btn btn-success mr-2 tw-inline-flex tw-items-center">
                             <CheckIcon class="tw-h-6 tw-mr-1" /> Approve
                         </button>
-                        <button id="request_deny" name="request_deny" type="button" class="btn btn-danger tw-inline-flex tw-items-center">
-                            <XIcon class="tw-h-6 tw-mr-1" /> Decline
+                        <button @click.prevent.stop="request(item.id, 'deny')" :disabled="submitting" type="button" class="btn btn-danger tw-inline-flex tw-items-center">
+                            <XIcon class="tw-h-6 tw-mr-1" /> Deny
                         </button>
                     </div>
                 </div>

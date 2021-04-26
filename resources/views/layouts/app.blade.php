@@ -1,10 +1,8 @@
 {{--
-
     Primary Maintainer: Raymond Chow
 
-    Loads website and website navbar
+    Layout and navbar display
 --}}
-
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>

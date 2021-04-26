@@ -1,3 +1,9 @@
+{{--
+    Primary Maintainer: Alex Benasutti
+
+    Handles listing of user edit requests per audio file
+--}}
+
 @extends('layouts.app')
 
 @section('content')

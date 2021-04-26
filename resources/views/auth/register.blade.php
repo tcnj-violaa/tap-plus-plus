@@ -32,11 +32,11 @@
             @endif
 
             <div class="form-group mb-0">
-                <label for="email" class="sr-only">Email</label>
-                <input type="email" id="email" name="email" class="form-control tw-rounded-b-none tw-border-b-0" placeholder="Email" value="{{ old('email') }}" required autofocus>
+                <label for="name" class="sr-only">Full Name</label>
+                <input type="text" id="name" name="name" class="form-control tw-rounded-b-none tw-border-b-0" placeholder="Full Name" value="{{ old('name') }}" required autofocus>
 
-                <label for="name" class="sr-only">Username</label>
-                <input type="text" id="name" name="name" class="form-control tw-rounded-none tw-border-b-0" placeholder="Username" required>
+                <label for="email" class="sr-only">Email</label>
+                <input type="email" id="email" name="email" class="form-control tw-rounded-none tw-border-b-0" placeholder="Email" value="{{ old('email') }}" required>
 
                 <label for="password" class="sr-only">Password</label>
                 <input type="password" id="password" name="password" class="form-control tw-rounded-t-none" placeholder="Password" required>

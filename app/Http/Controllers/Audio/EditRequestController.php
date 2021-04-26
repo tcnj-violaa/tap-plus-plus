@@ -1,6 +1,8 @@
 <?php
 /*
  * Primary Maintainer: Alex Benasutti
+ *
+ * Handles queries for all user edit requests, storage, approval, and creation
  */
 
 namespace App\Http\Controllers\Audio;
@@ -148,27 +150,55 @@ class EditRequestController extends Controller
         return response(DiffHelper::calculate($text->old_text, $text->new_text, 'SideBySide', [], $rendererOptions));
     }
 
-    private function tryApproval(Request $request): object
+    public function setRequestStatus(Request $request)
     {
-        return DB::transaction(function () use ($request) {
-           $approve =  $request->get('request_approve');
-           $deny = $request->get('request_deny');
+        // TODO: Move to middleware.
+        if (Auth::user()->user_type < 2) {
+            abort(403, "Unauthorized.");
+        }
 
-            if ($approve)
-            {
-                // update current transcript with new transcript
+        $request->validate([
+            'user_edit_request_id' => 'required|integer'
+        ]);
 
-            }
-            else if ($deny)
-            {
-                // set deny state to current transcript
-                DB::update('UPDATE user_edit_requests SET request_approved = true WHERE ')
-            }
-        });
-    }
+        try {
+            return DB::transaction(function () use ($request) {
+                $id = $request->get('user_edit_request_id');
 
-    public function post_approval(Request $request)
-    {
+                $editRequest = DB::selectOne("SELECT a.id AS audio_id, u.text, u.edit_comment FROM user_edit_request u
+                    INNER JOIN transcripts t on u.transcript_id = t.id
+                    INNER JOIN audio a ON t.audio_id = a.id
+                    WHERE u.id = ? AND u.request_approved IS NULL",
+                    [$id]);
+                if (! $editRequest) {
+                    return [
+                        'success' => false,
+                        'message' => 'Unable to find edit request.'
+                    ];
+                }
+                $editRequest = (object) $editRequest;
 
+                if ($request->type === 'approve') {
+                    // update current transcript with new transcript
+                    DB::update("UPDATE user_edit_request SET request_approved = 'true' WHERE id = ?", [$id]);
+                    DB::update("UPDATE transcripts SET is_latest = 'false' WHERE audio_id = ?", [$editRequest->audio_id]);
+                    DB::insert("INSERT INTO transcripts (audio_id, text, revision_comment, is_latest) VALUES (?, ?, ?, 'true')", [$editRequest->audio_id, $editRequest->text, $editRequest->edit_comment]);
+                } else if ($request->type === 'deny') {
+                    // set deny state to current transcript
+                    DB::update("UPDATE user_edit_request SET request_approved = 'false' WHERE id = ?", [$id]);
+                }
+
+                return [
+                    'success' => true
+                ];
+            });
+        }
+        catch (Throwable $throwable) {
+            Log::error($throwable);
+            return [
+                'success' => false,
+                'message' => 'An unknown error occurred.'
+            ];
+        }
     }
 }

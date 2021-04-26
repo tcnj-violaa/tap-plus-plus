@@ -1,6 +1,8 @@
 <script>
 /*
  * Primary Maintainer: Alex Viola
+ *
+ * Handles admin view of user edit requests
  */
 
 import {ref} from "vue";

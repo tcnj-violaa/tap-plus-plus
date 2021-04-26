@@ -1,6 +1,8 @@
 <script>
 /*
  * Primary Maintainers: Alex Benasutti, Raymond Chow
+ *
+ * Handles user edit request display per audio file
  */
 
 import {ref} from "vue";
@@ -35,7 +37,7 @@ export default {
 <template>
     <div class="container">
         <div class="container text-center">
-            <p class="lead tw-text-2xl tw-font-bold mt-3"><b><a :href="'/audio/' + audio.id">{{ audio.name }}</a></b></p>
+            <p class="lead tw-text-2xl tw-font-bold mt-3"><b><a class="tw-text-blue-600" :href="'/audio/' + audio.id">{{ audio.name }}</a></b></p>
             <hr class="my-2">
         </div>
         <div class="tw-flex tw-flex-col tw-justify-center tw-items-center tw-h-64 tw-p-8" v-if="requests.length < 1">
