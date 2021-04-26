@@ -1,5 +1,4 @@
 <?php
-
 /*
 Primary Maintainer: Alex Viola
 */
@@ -19,7 +18,7 @@ use Throwable;
  */
 class RegisterController extends Controller
 {
-    private $redirectUrl = '/';
+    private string $redirectUrl = '/';
 
     /**
      * Try to register the user.

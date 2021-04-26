@@ -1,7 +1,6 @@
 <script>
-
 /*
- * Primary maintainer: Raymond Chow
+ * Primary Maintainer: Raymond Chow
  *
  * Handles filter and audio file card display
  */
@@ -39,8 +38,6 @@ export default {
 
             loading.value = true;
 
-            console.log('reloading');
-
             let tags = [];
 
             let keys = Object.keys(filterStates.value);
@@ -51,7 +48,6 @@ export default {
             }
 
             try {
-                console.log('search:', searchQuery.value);
                 cancelSource = CancelToken.source();
                 let response = await axios.post(
                     '/api/audio/list?page=' + page.value,

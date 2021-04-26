@@ -18,7 +18,7 @@ use Illuminate\Support\Facades\Hash;
  */
 class LoginController extends Controller
 {
-    private $redirectUrl = '/';
+    private string $redirectUrl = '/';
 
     /**
      * User authentication with Auth

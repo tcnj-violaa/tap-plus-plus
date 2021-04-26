@@ -6,6 +6,7 @@
 namespace App\Http\Middleware;
 
 use App\Core\Facades\Auth;
+use Closure;
 use Illuminate\Http\Request;
 
 /**
@@ -25,7 +26,7 @@ class Authenticate
      */
     public function handle(Request $request, Closure $next)
     {
-        if (! Auth::check($request)) {
+        if (! Auth::check()) {
             if ($request->expectsJson()) {
                 return response()->json([
                     'status' => 403,

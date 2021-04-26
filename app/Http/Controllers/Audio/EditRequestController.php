@@ -10,12 +10,22 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
+use Jfcherng\Diff\DiffHelper;
 use Throwable;
 
+/**
+ * User-facing edit request logic
+ * @package App\Http\Controllers\Audio
+ */
 class EditRequestController extends Controller
 {
-    private $redirectUrl = '/';
-
+    /**
+     * Attempt to create an edit request using user input.
+     *
+     * @param Request $request Current Request
+     * @param int $id Audio ID
+     * @return object [ bool success, (string message if success is false)]
+     */
     private function tryEditRequest(Request $request, int $id): object
     {
         try {
@@ -30,7 +40,7 @@ class EditRequestController extends Controller
                 }
 
                 $newTranscript = $request->get('transcript_edit_text');
-                $oldTranscriptId = optional(DB::selectOne('SELECT id FROM transcripts WHERE audio_id = ?', [$id]))->id;
+                $oldTranscriptId = optional(DB::selectOne('SELECT id FROM transcripts WHERE audio_id = ? AND is_latest', [$id]))->id;
                 if (! $oldTranscriptId) {
                     return [
                         'success' => false,
@@ -39,8 +49,8 @@ class EditRequestController extends Controller
                 }
 
                 DB::insert(
-                    'INSERT INTO user_edit_request (user_id, transcript_id, text, edit_comment) VALUES (?, ?, ?, ?)',
-                    [Auth::user()->id, $oldTranscriptId, $newTranscript, $request->get('edit_comment')]
+                    'INSERT INTO user_edit_request (user_id, transcript_id, text, edit_comment, create_time) VALUES (?, ?, ?, ?, now())',
+                    [Auth::user()->id, $oldTranscriptId, $newTranscript, $request->get('edit_comment'), ]
                 );
 
                 return (object) [
@@ -48,7 +58,7 @@ class EditRequestController extends Controller
                 ];
             });
         }
-        catch (\Throwable $throwable) {
+        catch (Throwable $throwable) {
             Log::error($throwable);
             return (object) [
                 'success' => false
@@ -56,6 +66,13 @@ class EditRequestController extends Controller
         }
     }
 
+    /**
+     * Show the user the form to edit the transcript.
+     *
+     * @param Request $request
+     * @param $id Audio ID
+     * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
+     */
     public function create(Request $request, $id)
     {
         $audio = DB::selectOne("SELECT * FROM results WHERE id = ?", [$id]);
@@ -63,6 +80,13 @@ class EditRequestController extends Controller
         return view('audio.edit_request', compact(['audio']));
     }
 
+    /**
+     * Create the edit request and redirect the user.
+     *
+     * @param Request $request
+     * @param $id Audio ID
+     * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Http\RedirectResponse|\Illuminate\Routing\Redirector
+     */
     public function store(Request $request, $id)
     {
         $request->validate([
@@ -72,8 +96,8 @@ class EditRequestController extends Controller
 
         $result = $this->tryEditRequest($request, $id);
         if ($result->success) {
-            flash("You have successfully submitted an edit request", "success");
-            return redirect($this->redirectUrl);
+            flash("You have successfully submitted an edit request.", "success");
+            return redirect('/audio/' . intval($id) . '/requests');
         } else {
             return back()->withInput()
                 ->with('error', "An unknown error occurred during the creation of your edit request.");
@@ -82,6 +106,45 @@ class EditRequestController extends Controller
 
     public function all(Request $request, $id)
     {
-        
+        $audio = DB::selectOne("SELECT * FROM audio WHERE id = ?", [$id]);
+        if (! $audio) {
+            abort(404);
+        }
+
+        // $requests = DB::select('SELECT * FROM user_edit_request WHERE request_approved IS NULL AND transcript_id IN (SELECT id FROM transcripts WHERE audio_id = ?)', [$id]);
+
+        $requests = DB::select("SELECT user_edit_request.id, user_edit_request.user_id,
+                users.name AS user_name, user_edit_request.transcript_id,
+                user_edit_request.edit_comment,
+                user_edit_request.create_time
+            FROM user_edit_request
+            INNER JOIN transcripts ON user_edit_request.transcript_id = transcripts.id AND transcripts.is_latest
+            INNER JOIN audio on audio.id = transcripts.audio_id
+            INNER JOIN users on users.id = user_edit_request.user_id
+            WHERE request_approved IS NULL AND audio.id = ?", [$id]);
+        // dd($requests);
+
+        return view('audio.pending_requests', compact(['audio', 'requests']));
+    }
+
+    public function diff(Request $request)
+    {
+        $request->validate([
+            'user_edit_request_id' => 'required|integer'
+        ]);
+
+        $text = DB::selectOne("SELECT transcripts.text AS old_text, user_edit_request.text AS new_text FROM user_edit_request
+                INNER JOIN transcripts ON transcripts.id = user_edit_request.transcript_id
+                WHERE user_edit_request.id = ?", [$request->get('user_edit_request_id')]);
+        if (! $text) {
+            abort(404);
+        }
+        $text = (object) $text;
+
+        $rendererOptions = [
+            'detailLevel' => 'word',
+            'lineNumbers' => false
+        ];
+        return response(DiffHelper::calculate($text->old_text, $text->new_text, 'SideBySide', [], $rendererOptions));
     }
 }

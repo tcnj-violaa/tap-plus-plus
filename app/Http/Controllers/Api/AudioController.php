@@ -10,9 +10,20 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
+/**
+ * Audio result-obtaining logic
+ * @package App\Http\Controllers\Api
+ */
 class AudioController extends Controller
 {
-    public function get(Request $request)
+    /**
+     * Does filtering and searching of audio objects
+     * See routes/api.php for use
+     *
+     * @param Request $request
+     * @return array Audio result object
+     */
+    public function list(Request $request)
     {
         $request->validate([
             'tags' => 'nullable|array',

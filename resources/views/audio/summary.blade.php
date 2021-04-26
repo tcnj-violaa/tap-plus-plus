@@ -37,6 +37,12 @@
                             <h5 class="lead display-5">Description</h5>
                             <hr class="my-2">
                             <p>{{ $audio->description }}</p>
+                            <hr class="my-2">
+                            <div class="mb-0">
+                                @foreach ($tags as $tag)
+                                    <span class="badge badge-dark">{{ $tag->category_name }} &gt; {{ $tag->tag_name }}</span>
+                                @endforeach
+                            </div>
                         </div>
                     </div>
                     @if ($audio->transcript_text)
@@ -44,6 +50,7 @@
                             <div class="container">
                                 <p class="mb-2">See an issue in the transcript? Propose a transcript edit!</p>
                                 <a href="/audio/{{ $audio->id }}/request-edit" class="btn btn-outline-dark">Request Edit</a>
+                                <a href="/audio/{{ $audio->id }}/requests" class="btn btn-outline-dark mt-1">View Open Requests</a>
                             </div>
                         </div>
                     @endif

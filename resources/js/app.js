@@ -11,3 +11,15 @@ const homeElement = document.getElementById('home-component');
 if (homeElement !== null) {
     createApp(HomeComponent).mount(homeElement);
 }
+
+import AdminEditRequestList from './components/admin/AdminEditRequestList';
+const adminEditRequestListElement = document.getElementById('admin-edit-rq-component');
+if (adminEditRequestListElement !== null) {
+    createApp(AdminEditRequestList).mount(adminEditRequestListElement);
+}
+
+import UserEditRequestList from './components/user/UserEditRequestList';
+const userEditRequestListElement = document.getElementById('user-edit-rq-component');
+if (userEditRequestListElement !== null) {
+    createApp(UserEditRequestList).mount(userEditRequestListElement);
+}

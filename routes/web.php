@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Admin\EditRequestApprovalController;
 use App\Http\Controllers\Audio\EditRequestController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Auth\RegisterController;
@@ -30,5 +31,15 @@ Route::post('/auth/register', [RegisterController::class, 'post']);
 
 Route::get('/audio/{id}', [SummaryController::class, 'get']);
 
-Route::get('/audio/{id}/request-edit', [EditRequestController::class, 'create']);
-Route::post('/audio/{id}/request-edit', [EditRequestController::class, 'store']);
+Route::middleware('auth')->group(function () {
+    Route::get('/audio/{id}/request-edit', [EditRequestController::class, 'create']);
+    Route::post('/audio/{id}/request-edit', [EditRequestController::class, 'store']);
+
+    Route::get('/audio/{id}/requests', [EditRequestController::class, 'all']);
+
+    // Route::get('/audio/{id}/requests/{req_id}', [EditRequestController::class, 'look']);
+});
+
+/*Route::middleware(['auth', 'admin'])->group(function () {
+    Route::get('/admin/open-requests', [EditRequestApprovalController::class, 'get']);
+});*/

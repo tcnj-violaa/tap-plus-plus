@@ -12,6 +12,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ config('app.name') }}</title>
         <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
+        <script>
+            window.TAP = {
+                userType: {{ Auth::check() ? Auth::user()->user_type : -1 }}
+            };
+        </script>
         <script src="{{ mix('/js/app.js') }}" defer></script>
     </head>
     <body>

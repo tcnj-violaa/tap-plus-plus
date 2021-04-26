@@ -5,6 +5,7 @@
 
 namespace App\Core\Implementation;
 
+use App\Core\Helpers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
@@ -45,20 +46,6 @@ class TapAuthentication
     }
 
     /**
-     * @param object $data Data to filter keys
-     * @param array|null $keys Approved keys
-     * @return object New object with only approved keys
-     */
-    private function restrictKeys(object $data, ?array $keys = null): object
-    {
-        if ($keys === null) {
-            return $data;
-        }
-
-        return (object) array_intersect_key((array) $data, array_flip($keys));
-    }
-
-    /**
      * Get the user object if the user is authenticated.
      *
      * @param bool $forceRefresh Force a SELECT query, even if cached
@@ -72,7 +59,7 @@ class TapAuthentication
         }
 
         if ($this->user !== null && ! $forceRefresh) {
-            return $this->restrictKeys($this->user, $keys);
+            return Helpers::restrictKeys($this->user, $keys);
         }
 
         if (! $this->check()) {
@@ -87,7 +74,7 @@ class TapAuthentication
         }
 
         $this->user = (object) $user;
-        return $this->restrictKeys($this->user, $keys);
+        return Helpers::restrictKeys($this->user, $keys);
     }
 
     /**

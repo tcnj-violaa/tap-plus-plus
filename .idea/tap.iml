@@ -126,6 +126,10 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/dbal" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/kitloong/laravel-migrations-generator" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/orangehill/iseed" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jfcherng/php-diff" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jfcherng/php-color-output" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jfcherng/php-sequence-matcher" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jfcherng/php-mb-string" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

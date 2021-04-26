@@ -5,6 +5,7 @@
 
 namespace App\Data;
 
+use App\Core\Helpers;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
 
@@ -23,12 +24,12 @@ class Audio
      * @param int $perPage Optional count per page, if not using the static PER_PAGE variable
      * @param array|null $tags Optional array of tag IDs to search for
      * @param string $search Optional search query string
+     * @param array|null $keys Optional keys to restrict to
      * @return array of audio objects
      */
-    public static function get(int $page = 1, int $perPage = -1, ?array $tags = null, string $search = '')
+    public static function get(int $page = 1, int $perPage = -1, ?array $tags = null, string $search = '', ?array $keys = null)
     {
-        // TODO: more columns to search from
-        DB::enableQueryLog();
+        // DB::enableQueryLog();
 
         if ($perPage === -1) {
             // PHP doesn't support static this in the declaration
@@ -74,16 +75,20 @@ class Audio
             }
         }
 
-        // TODO: more search areas
         if (strlen($search) > 0) {
+            // TODO: full-text index
             $filterQuery .= ($alreadyHasWhere ? 'AND ' : 'WHERE ');
             $filterQuery .= "name ILIKE ?\n";
+            $args[] = '%' . $search . '%';
 
+            // Search transcript text
+            // TODO: full-text index
+            $filterQuery .= "OR transcript_text ILIKE ?\n";
             $args[] = '%' . $search . '%';
         }
 
         // Get the count
-        $count = DB::selectOne("SELECT COUNT(*) AS count FROM audio\n" . $filterQuery, $args)->count;
+        $count = DB::selectOne("SELECT COUNT(*) AS count FROM results\n" . $filterQuery, $args)->count;
 
         // Pagination logic
         $resultQuery = "SELECT * FROM results\n" . $filterQuery;
@@ -92,7 +97,9 @@ class Audio
         $args[] = ($page - 1) * $perPage;
 
         // Get the results
-        $results = DB::select($resultQuery, $args);
+        $results = collect(DB::select($resultQuery, $args))->map(function ($audio) use ($keys) {
+            return Helpers::restrictKeys($audio, $keys);
+        });
 
         return [
             'page' => $page,

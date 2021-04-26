@@ -1,5 +1,4 @@
 <?php
-
 /*
  * Primary Maintainer: Raymond Chow
  */
@@ -10,6 +9,10 @@ use App\Data\Audio;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
+/**
+ * Homepage logic
+ * @package App\Http\Controllers
+ */
 class HomeController extends Controller
 {
     /**
@@ -44,7 +47,8 @@ class HomeController extends Controller
     public function get(Request $request)
     {
         $audio = Audio::get(
-            search: ($request->get('search') ?? '')
+            search: ($request->get('search') ?? ''),
+            keys: ['id', 'name']
         );
 
         $filters = $this->getFilters();

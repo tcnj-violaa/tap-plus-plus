@@ -9,8 +9,9 @@ use App\Core\Facades\Auth;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-/*
+/**
  * Log out logic
+ * @package App\Http\Controllers\Auth
  */
 class LogoutController extends Controller
 {
