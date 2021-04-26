@@ -90,6 +90,8 @@ CREATE VIEW admin_transcript_edit_requests AS SELECT
 CREATE VIEW results AS SELECT
     audio.id,
     audio.name,
+    audio.description,
+    audio.audio_date,
     audio.upload_date,
     transcripts.text AS transcript_text
    FROM audio

