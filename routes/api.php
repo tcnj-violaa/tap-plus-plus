@@ -5,6 +5,7 @@
  */
 
 use App\Http\Controllers\Api\AudioController;
+use App\Http\Controllers\Api\HistoryController;
 use App\Http\Controllers\Audio\EditRequestController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
@@ -27,4 +28,5 @@ use Illuminate\Support\Facades\Route;
 Route::post('/audio/list', [AudioController::class, 'list']);
 
 Route::get('/audio/requests/get-diff', [EditRequestController::class, 'diff']);
+Route::get('/audio/history/get-diff', [HistoryController::class, 'diff']);
 Route::post('/audio/requests/set-status', [EditRequestController::class, 'setRequestStatus']);

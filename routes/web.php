@@ -10,6 +10,7 @@ use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\Audio\SummaryController;
+use App\Http\Controllers\Audio\HistoryController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -33,6 +34,12 @@ Route::post('/auth/login', [LoginController::class, 'post']);
 Route::get('/auth/register', [RegisterController::class, 'get']);
 Route::post('/auth/register', [RegisterController::class, 'post']);
 
+// Before the catch-all for /audio/{id}
+Route::middleware('auth')->group(function () {
+    Route::get('/audio/create', [\App\Http\Controllers\Audio\CreationController::class, 'create']);
+    Route::post('/audio/create', [\App\Http\Controllers\Audio\CreationController::class, 'store']);
+});
+
 Route::get('/audio/{id}', [SummaryController::class, 'get']);
 
 Route::middleware('auth')->group(function () {
@@ -41,9 +48,7 @@ Route::middleware('auth')->group(function () {
 
     Route::get('/audio/{id}/requests', [EditRequestController::class, 'all']);
 
-    // Route::post('/audio/{id}/requests/{req_id}', [EditRequestController::class, 'look']);
+    Route::get('/admin/requests', [EditRequestApprovalController::class, 'get']);
 });
 
-/*Route::middleware(['auth', 'admin'])->group(function () {
-    Route::get('/admin/open-requests', [EditRequestApprovalController::class, 'get']);
-});*/
+Route::get('/audio/{id}/history', [HistoryController::class, 'get']);

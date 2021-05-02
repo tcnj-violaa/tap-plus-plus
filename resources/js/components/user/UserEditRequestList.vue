@@ -47,7 +47,7 @@ export default {
                 <p>If you see an error within this file's transcript, feel free to make your own edit request!</p>
             </div>
         </div>
-        <div class="tw-flex tw-flex-wrap tw--m-2" v-else>
+        <div class="tw-flex tw-flex-wrap tw-m-2" v-else>
             <EditRequestCard
                 v-bind="{ item }"
                 v-for="item in requests"

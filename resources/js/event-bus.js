@@ -1,8 +1,10 @@
+/*
+ * Primary Maintainer: Raymond Chow
+ *
+ * Event bus for search functionality
+ */
+
 import mitt from 'mitt';
 const emitter = mitt();
-
-/*emitter.on('*', (type, e) => {
-    console.log(type, e);
-});*/
 
 export default emitter;

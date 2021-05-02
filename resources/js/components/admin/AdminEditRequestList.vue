@@ -7,9 +7,11 @@
 
 import {ref} from "vue";
 import {CheckIcon} from "@heroicons/vue/outline/esm";
+import EditRequestCard from "./components/EditRequestCard";
 
 export default {
     components: {
+        EditRequestCard,
         CheckIcon
     },
     setup() {
@@ -20,8 +22,6 @@ export default {
 
         const data = el.dataset;
         const requests = ref(JSON.parse(data.requests));
-
-        console.log(requests.value);
 
         return {
             requests
@@ -35,19 +35,17 @@ export default {
         <div class="tw-flex tw-flex-col tw-justify-center tw-items-center tw-h-64 tw-p-8" v-if="requests.length < 1">
             <CheckIcon class="text-success h-48" />
             <div class="text-center">
-                <h2 class="tw-text-xl tw-font-bold tw-mb-2">No pending requests.</h2>
+                <h2 class="tw-text-xl tw-font-bold tw-mb-2">No requests found.</h2>
+                <p>If someone creates an edit request, it will show up here.</p>
             </div>
         </div>
-        <div v-else>
-            <div class="tw-flex tw-flex-wrap tw--m-2">
-                <a class="tw-m-2 tw-w-full hover:tw-no-underline" :href="'/requests/' + item.id" v-for="item in audio" :key="item.id">
-                    <div class="card bg-light border-secondary tw-transition-shadow hover:tw-shadow-md">
-                        <div class="card-body">
-                            <h6 class="card-title tw-text-black mb-0 tw-text-base">{{ item.name }}</h6>
-                        </div>
-                    </div>
-                </a>
-            </div>
+        <div class="tw-flex tw-flex-wrap tw-m-2 tw-mt-4" v-else>
+            <h2 class="tw-text-xl tw-font-bold tw-mb-2">All Requests</h2>
+            <EditRequestCard
+                v-bind="{ item }"
+                v-for="item in requests"
+                :key="item.id"
+            />
         </div>
     </div>
 </template>

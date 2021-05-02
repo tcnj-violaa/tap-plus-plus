@@ -1,7 +1,7 @@
 <?php
 /*
-Primary Maintainer: Alex Viola
-*/
+ * Primary Maintainer: Alex Viola
+ */
 
 namespace App\Http\Controllers\Auth;
 
@@ -13,8 +13,11 @@ use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Log;
 use Throwable;
 
-/*
- * Registration logic
+
+/**
+ * Registration Logic
+ * Class RegisterController
+ * @package App\Http\Controllers\Auth
  */
 class RegisterController extends Controller
 {

@@ -119,7 +119,7 @@ export default {
         </a>
 
         <div class="tw-w-full mt-2" v-if="!loading && diff !== null && show">
-            <fragment v-html="diff"></fragment>
+            <div v-html="diff"></div>
 
             <a :href="'#uer-' + item.id" class="tw-text-blue-600">Jump Back to Top</a>
         </div>

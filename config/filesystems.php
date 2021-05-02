@@ -52,6 +52,10 @@ return [
             'endpoint' => env('AWS_ENDPOINT'),
         ],
 
+        'audio' => [
+            'driver' => 'local',
+            'root'   => public_path() . '/audio',
+        ],
     ],
 
     /*

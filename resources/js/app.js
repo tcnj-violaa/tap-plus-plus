@@ -1,3 +1,8 @@
+/*
+ * Primary Maintainer: Raymond Chow
+ *
+ * Vue initialization
+ */
 import {createApp, h} from "vue";
 import Navbar from './components/layout/Navbar';
 import App from "./components/layout/App";
@@ -22,4 +27,10 @@ import UserEditRequestList from './components/user/UserEditRequestList';
 const userEditRequestListElement = document.getElementById('user-edit-rq-component');
 if (userEditRequestListElement !== null) {
     createApp(UserEditRequestList).mount(userEditRequestListElement);
+}
+
+import TranscriptHistory from './components/user/TranscriptHistory';
+const transcriptHistoryElement = document.getElementById('ts-history-component');
+if (transcriptHistoryElement !== null) {
+    createApp(TranscriptHistory).mount(transcriptHistoryElement);
 }

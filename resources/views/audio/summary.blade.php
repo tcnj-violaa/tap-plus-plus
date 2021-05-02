@@ -52,6 +52,7 @@
                                 <a href="/audio/{{ $audio->id }}/requests" class="btn btn-outline-dark mt-1 tw-w-full">View Open Requests</a>
                             </div>
                         </div>
+                        <a href="/audio/{{ $audio->id }}/history" class="btn btn-link tw-w-full">Transcript History</a>
                     @endif
                 </div>
             </div>

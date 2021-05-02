@@ -1,4 +1,8 @@
 <script>
+/*
+ * Primary Maintainer: Raymond Chow
+ * Main app layout
+ */
 import Navbar from './Navbar';
 export default {
     components: {

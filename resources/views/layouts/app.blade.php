@@ -1,7 +1,7 @@
 {{--
     Primary Maintainer: Raymond Chow
 
-    Layout and navbar display
+    Shared layout for website
 --}}
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">

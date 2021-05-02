@@ -1,6 +1,6 @@
 <?php
 /*
- * Primary Maintainer: Alex Benasutti
+ * Primary Maintainer: Alex Benasutti, Raymond Chow
  *
  * Handles queries for all user edit requests, storage, approval, and creation
  */
@@ -32,7 +32,6 @@ class EditRequestController extends Controller
     {
         try {
             return DB::transaction(function () use ($request, $id) {
-                // dd($request->all());
                 $audio = DB::selectOne("SELECT id FROM audio WHERE id = ?", [$id]);
                 if (! $audio) {
                     return [
@@ -106,6 +105,13 @@ class EditRequestController extends Controller
         }
     }
 
+    /**
+     * Show the current pending edit requests
+     *
+     * @param Request $request Current request
+     * @param $id Audio ID
+     * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
+     */
     public function all(Request $request, $id)
     {
         $audio = DB::selectOne("SELECT * FROM audio WHERE id = ?", [$id]);
@@ -129,6 +135,13 @@ class EditRequestController extends Controller
         return view('audio.pending_requests', compact(['audio', 'requests']));
     }
 
+    /**
+     * Calculate differences in text between old and new transcript
+     * To be consumed as an API
+     *
+     * @param Request $request
+     * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\Routing\ResponseFactory|\Illuminate\Http\Response
+     */
     public function diff(Request $request)
     {
         $request->validate([
@@ -150,9 +163,15 @@ class EditRequestController extends Controller
         return response(DiffHelper::calculate($text->old_text, $text->new_text, 'SideBySide', [], $rendererOptions));
     }
 
+    /**
+     * Set the status of an edit request
+     *
+     * @param Request $request Current request
+     * @return array|mixed
+     */
     public function setRequestStatus(Request $request)
     {
-        // TODO: Move to middleware.
+        // Allow requests to be approved or denied by administrators
         if (Auth::user()->user_type < 2) {
             abort(403, "Unauthorized.");
         }
@@ -187,6 +206,15 @@ class EditRequestController extends Controller
                     // set deny state to current transcript
                     DB::update("UPDATE user_edit_request SET request_approved = 'false' WHERE id = ?", [$id]);
                 }
+
+                DB::table('audit_logs')->insert([
+                    'user_id' => Auth::user()->id,
+                    'type' => 'transcript:' . $request->type,
+                    'data' => json_encode([
+                        'edit_request_id' => $id
+                    ]),
+                    'create_time' => DB::raw('now()')
+                ]);
 
                 return [
                     'success' => true

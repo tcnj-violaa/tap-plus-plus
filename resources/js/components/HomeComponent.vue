@@ -141,7 +141,7 @@ export default {
                             <p>Please consider trying a different combination of filters or a different search pattern.</p>
                         </div>
                     </div>
-                    <div class="tw-flex tw-flex-wrap tw--m-2" v-else>
+                    <div class="tw-flex tw-flex-wrap tw-m-2" v-else>
                         <a class="tw-m-2 tw-w-full hover:tw-no-underline" :href="'/audio/' + item.id" v-for="item in audio.data" :key="item.id">
                             <div class="card bg-light border-secondary tw-transition-shadow hover:tw-shadow-md">
                                 <div class="card-body">

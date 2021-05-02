@@ -8,10 +8,10 @@ use Illuminate\Support\Facades\Log;
 
 class DatabaseSeeder extends Seeder
 {
-    private function updateIdentity(string $table, string $primaryKey = 'id')
+    /*private function updateIdentity(string $table, string $primaryKey = 'id')
     {
         DB::statement("SELECT setval(pg_get_serial_sequence('$table', '$primaryKey'), (SELECT MAX($primaryKey) FROM $table));");
-    }
+    }*/
 
     /**
      * Seed the application's database.
@@ -20,7 +20,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        $this->call(UsersTableSeeder::class);
+        /*$this->call(UsersTableSeeder::class);
         $this->call(AudioTableSeeder::class);
         $this->call(TagCategoryTableSeeder::class);
         $this->call(TagsTableSeeder::class);
@@ -35,6 +35,6 @@ class DatabaseSeeder extends Seeder
         $this->updateIdentity('tags');
         $this->updateIdentity('transcripts');
         $this->updateIdentity('user_edit_request');
-        $this->updateIdentity('audit_logs');
+        $this->updateIdentity('audit_logs');*/
     }
 }

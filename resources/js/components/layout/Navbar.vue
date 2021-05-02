@@ -1,4 +1,9 @@
 <script>
+/*
+ * Primary Maintainer: Raymond Chow
+ *
+ * Navigation bar
+ */
 import { ref } from 'vue';
 import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/vue';
 import { SearchIcon } from '@heroicons/vue/solid';
@@ -18,6 +23,12 @@ const unauthorizedNavigation = [
 ];
 
 const userDropdown = [
+    { name: 'Sign out', href: '#', 'action': 'logout' },
+];
+
+const adminDropdown = [
+    { name: 'Create Audio', 'href': '/audio/create' },
+    { name: 'Edit Requests', href: '/admin/requests' },
     { name: 'Sign out', href: '#', 'action': 'logout' },
 ];
 
@@ -109,11 +120,12 @@ export default {
             }
         };
 
+        const isAdmin = window.TAP.userType >= 2;
         return {
             loggedIn,
             user,
             navigation,
-            userDropdown,
+            userDropdown: isAdmin ? adminDropdown : userDropdown,
             open,
             unauthorizedNavigation,
             onUserDropdownClick,
