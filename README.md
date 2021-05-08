@@ -4,7 +4,7 @@ This project aims to make an easy-to-use interface that gathers audio recordings
 
 ### Documentation
 
-* Documentation (especially details about the database) can be found in the [main wiki page](https://github.com/TCNJ-degoodj/stage-v-group-11/wiki).
+* Documentation (especially details about the database) can be found in the [main wiki page](https://github.com/tcnj-violaa/tap-plus-plus/wiki).
 * The project spec document can be found at [`docs/Specs.pdf`](/docs/Specs.pdf).
 * The project model document can be found at [`docs/Model.pdf`](/docs/Model.pdf).
 * The project design document can be found at [`docs/Design.pdf`](/docs/Design.pdf).
